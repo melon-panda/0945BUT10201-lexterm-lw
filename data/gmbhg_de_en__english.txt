@@ -1,0 +1,679 @@
+<align>Service provided by the Federal Ministry of Justice and Consumer Protection</align>
+<align>in cooperation with juris GmbH -  www.juris.de</align>
+<align>Limited Liability Companies Act(GmbHG)</align>
+<align>Part 1</align>
+<align>Formation of company</align>
+<align>Section 1 Purpose; number of founders</align>
+<align>A limited liability company may be formed by one person or several persons pursuant to the provisions of this Act for any purpose permitted by law.</align>
+<align>Section 2 Form of articles of association</align>
+<align>The articles of association require notarial form.</align>
+<align>They must be signed by all the shareholders.</align>
+<align>(1a) The company may be formed under a simplified procedure if it has no more than three shareholders and one director.</align>
+<align>The model protocol provided in the Annex must be used to form a limited liability company under the simplified procedure.</align>
+<align>No further provisions which derogate from the law may be laid down.</align>
+<align>The model protocol also serves as the list of shareholders.</align>
+<align>In all other respects, the provisions set out in this Act concerning the articles of association shall apply mutatis mutandis to the model protocol.</align>
+<align>The articles of association may be signed by authorised representatives only on the basis of a power of attorney established or authenticated by a notary.</align>
+<align>Section 3 Content of articles of association</align>
+<align>The articles of association must stipulate the following:</align>
+<align>The company’s business name and the place of its registered office,</align>
+<align>The purpose of the enterprise,</align>
+<align>The amount of the share capital,</align>
+<align>The number and nominal values of the shares to which each shareholdersubscribes against payment of the capital contribution into the share capital (original capital share).</align>
+<align>If the enterprise is to be formed for a specific term or if other obligations vis-a-vis the company are to be imposed on the shareholders in addition to payment of a capital contribution, these provisions must also be included in the articles of association.</align>
+<align>Section 4 Business name</align>
+<align>The business name must include the designation “Gesellschaft mit beschrankter Haftung” or a readily comprehensible abbreviation of this designation even if it is continued in accordance with section 22 of the Commercial Code or other statutory provisions.</align>
+<align>If the company exclusively and directly pursues tax-privileged purposes in accordance with sections 51 to 68 of the Fiscal Code, the abbreviation “gGmbH” may be used.</align>
+<align>Section 4a Registered office</align>
+<align>The place of the company’s registered office shall be that place in Germany as specified in the articles of association.</align>
+<align>Section 5 Share capital; share</align>
+<align>The company’s share capital must amount to no less than twenty-five thousand euros.</align>
+<align>The nominal value of each share must be a full euro amount.</align>
+<align>A shareholder may subscribe to several shares upon formation of the company.</align>
+<align>The amount of the nominal values of the individual shares may be variously determined.</align>
+<align>The sum total of the nominal values of all the shares must equal the amount of the share capital.</align>
+<align>If contributions in kind are to be made, the object of the contribution in kind and the nominal value of the share to which the contribution in kind refers must be specified in the articles of association.</align>
+<align>The shareholders shall set forth in a report on company formation on the basis of contributions in kind the material circumstances which establish the appropriateness of the payments for contributions in kind and, where an enterprise is transferred to the company, shall state the annual results of the two previous financial years.</align>
+<align>Section 5a Entrepreneurial company</align>
+<align>The business name of a company formed with a share capital which falls short of the minimum share capital referred to in section 5 (1) must, in derogation of section 4, bear the designation “Unternehmergesellschaft (haftungsbeschrankt)” (entrepreneurial company (limited liability)) or “UG (haftungsbeschrankt)” for short.</align>
+<align>In derogation of section 7 (2), the application to register the company may not be filed until the full amount of the share capital has been deposited.</align>
+<align>Contributions in kind shall not be possible.</align>
+<align>The balance sheet in the annual financial statements to be prepared in accordance with sections 242 and 264 of the Commercial Code must include statutory reserves comprising one quarter of the annual surplus minus any losses carried forward from the previous year.</align>
+<align>The reserves may be used only</align>
+<align>for the purposes set out in section 57c;</align>
+<align>to compensate for an annual deficit, in so far as it is not covered by profits carried forward from the previous year;</align>
+<align>to compensate for losses carried forward from the previous year, in so far as they are not covered by an annual surplus.</align>
+<align>In derogation of section 49 (3), a meeting of shareholders must be convened without undue delay where there is a threat of illiquidity.</align>
+<align>If the company increases its share capital so that it then equals or exceeds the amount of the minimum share capital referred to in section 5 (1), then subsections (1) to (4) above shall no longer apply; the business name as referred to in subsection (1) may be retained.</align>
+<align>Section 6 Directors</align>
+<align>The company must have one or more directors.</align>
+<align>Only a natural person of full legal capacity may be a director.</align>
+<align>Whoever</align>
+<align>as a person under custodianship is fully or partially subject to a reservation of consent (section 1903 of the German Civil Code) in the management of his assets,</align>
+<align>on the basis of a court judgment or an enforceable decision issued by an administrative authority is not permitted to exercise a profession, a branch of a profession, a trade or a branch of a trade, in so far as the purpose of the enterprise fully or partially corresponds to the subject of the prohibition,</align>
+<align>has been convicted on account of one or more wilfully committed criminal offences</align>
+<align>of failing to file an application for the opening of insolvency proceedings (delay in filing for insolvency),</align>
+<align>referred to in sections 283 to 283d of the Criminal Code (offences in the state of insolvency),</align>
+<align>for making false statements in accordance with section 82 of this Act or section 399 of the Stock Corporation Act,</align>
+<align>for false presentation as referred to in section 400 of the Stock Corporation Act, section 331 of the Commercial Code, section 313 of the Transformation Act or section 17 of the Disclosure Act or</align>
+<align>to imprisonment for no less than one year in accordance with sections 263 to 264a or sections 265b to 266a of the Criminal Code,</align>
+<align>may not be appointed as director; this debarment shall apply for a period of five years after the judgment becomes final, which period shall exclude the period in which the actor was detained in an institution upon an official order.</align>
+<align>The second sentence, no. 3, shall apply mutatis mutandis in the event of a conviction abroad on account of an act comparable to those acts referred to in the second sentence, no. 3.</align>
+<align>Shareholders or other persons may be appointed as directors.</align>
+<align>The appointment shall be made either in the articles of association or pursuant to the provisions of Part 3 of this Act.</align>
+<align>If the articles of association provide that all the shareholders are to be entitled to form the management, then only those persons shall be deemed to be appointed as directors who are part of the company when this provision is laid down.</align>
+<align>Shareholders who intentionally or gross negligently leave a person who may not act as director to manage the company’s business shall be held jointly and severally liable to the company for that damage which arises on account of the fact that this person violates the obligations which he is under vis-a-vis the company.</align>
+<align>Section 7 Registration of company</align>
+<align>An application to enter the company in the Commercial Register must be filed with that court in whose district the company has its registered office.</align>
+<align>The application for registration may be made only after one quarter of the nominal value of each share has been deposited, unless contributions in kind have been agreed.</align>
+<align>In total, at least as much of the share capital must have been deposited so that the total amount of the contributions in cash paid in, plus the total nominal capital of the shares for which contributions in kind are to be paid, equals half of the minimum share capital pursuant to section 5 (1).</align>
+<align>The contributions in kind shall be effected to the company, before the application for entry in the Commercial Register is filed, in such a manner that they are finally at the free disposal of the directors.</align>
+<align>Section 8 Content of application for registration</align>
+<align>The following must be enclosed with the application for registration:</align>
+<align>The articles of association and, in the case referred to in section 2 (2), the powers of attorney of those representatives who have signed the articles of association, or a certified copy of these documents,</align>
+<align>The directors’ legitimation, unless their appointment has been laid down in the articles of association,</align>
+<align>A list of shareholders which meets the requirements laid down in section 40 and has been signed by those applying for registration,</align>
+<align>In the case referred to in section 5 (4), the agreements on which the determinations are based or which were concluded in respect of their execution, and the report on company formation on the basis of contributions in kind,</align>
+<align>If contributions in kind have been agreed, the documents certifying that the value of the contributions in kind equals the nominal value of the shares subscribed to thereby.</align>
+<align>(repealed)</align>
+<align>The application for registration must include the assurance that the payments against the shares referred to in section 7 (2) and (3) have been effected and that the object of the payments is finally at the free disposal of the directors.</align>
+<align>The court may require proof (for instance deposit slips) where there is considerable doubt as to the correctness of the assurance.</align>
+<align>The directors must give their assurance in the application for registration that there are no circumstances which preclude their appointment in accordance with section 6 (2), second sentence, nos 2 and 3, and the third sentence, and that they have been instructed about their unlimited duty to disclose information to the court.</align>
+<align>The instruction referred to in section 53 (2) of the Federal Central Criminal Register Act may be given in writing; it may also be given by a notary or a notary appointed abroad, by a representative of a comparable legal advisory profession or a consular official.</align>
+<align>The application for registration must also indicate the following:</align>
+<align>A domestic business address,</align>
+<align>The nature and extent of the directors’ powers of representation.</align>
+<align>Section 12 (2) of the Commercial Code shall apply mutatis mutandis to the submission of documents in accordance with this Act.</align>
+<align>Section 9 Over-valuation of contributions in kind</align>
+<align>If at the point in time at which the application for entry of the company in the Commercial Register is filed the value of a contribution in kind does not equal the nominal value of the share subscribed to thereby, the shareholder must pay a contribution in cash in the amount of the shortfall.</align>
+<align>Other claims shall remain unaffected.</align>
+<align>The company’s claim under subsection (1), first sentence, shall become statute-barred ten years after the company is entered in the Commercial Register. Section 9a</align>
+<align>Claims for compensation on part of company</align>
+<align>Where false statements are made for the purpose of forming the company, the shareholders and directors of the company, as joint and several debtors, shall make the payments which have not been made, they shall compensate for remuneration which has not been included in the expenses for formation, and they shall pay compensation for any other damage arising.</align>
+<align>Where the company suffers damage due to an intentional or grossly negligent act by shareholders on account of capital contributions or expenses for formation, the shareholders shall all be liable to compensate that damage as joint and several debtors.</align>
+<align>A shareholder or director shall be exempt from these obligations if he was neither aware of the facts establishing the obligation to pay compensation nor needed to be aware thereof when applying the due care of a prudent businessman.</align>
+<align>In addition to the shareholders, those persons for whose account the shareholders have subscribed to shares shall also be responsible in the same manner.</align>
+<align>They may not rely on their own ignorance on account of such circumstances of which a shareholder acting for their account was aware or of which he needed to be aware when applying the due care of a prudent businessman.</align>
+<align>Section 9b Waiver of claims for compensation</align>
+<align>The company’s waiver of claims for compensation under section 9a or the company’s settlement in regard to such claims shall be ineffective in so far as the compensation is necessary to satisfy the company’s creditors.</align>
+<align>This shall not apply where the person obligated to pay compensation is insolvent and reaches a settlement with his creditors to avert the insolvency proceedings or if the obligation to pay compensation has been regulated in an insolvency plan.</align>
+<align>The company’s claims for compensation under section 9a shall become statute-barred after five years.</align>
+<align>The period of limitation begins to run when the company is entered in the Commercial Register or, if the act creating the obligation to pay compensation was committed at a later point in time, upon performance of that act.</align>
+<align>Section 9c Refusal to register company</align>
+<align>If the company has not been properly formed and registered, the court shall refuse to make the entry in the Commercial Register.</align>
+<align>This shall also apply where contributions in kind have been over-valued to a not insignificant degree.</align>
+<align>The court may refuse to make the entry in accordance with subsection (1) only on account of a defective or void provision or in the absence of a provision in the articles of association in so far as that provision, its absence or its nullity</align>
+<align>concerns facts or legal relations which must be specified in the articles of association in accordance with section 3 (1) or on account of other mandatory statutory provisions, or which must be entered in the Commercial Register or must be publicly noticed by the court,</align>
+<align>violate provisions which exclusively or predominantly exist to protect the company’s creditors or which are otherwise in the public interest, or</align>
+<align>result in the articles of association becoming null and void.</align>
+<align>Section 10 Content of entry</align>
+<align>The company’s business name and the place of its registered office, a domestic business address, the purpose of the enterprise, the amount of the share capital, the date of the conclusion of the articles of association and the names of the directors must be stated when the entry is made in the Commercial Register.</align>
+<align>The nature of the directors’ powers of representation must also be entered.</align>
+<align>If the articles of association contain provisions on the term of the company or on the authorised capital, these determinations must also be included in the entry.</align>
+<align>If a person authorised to take receipt of declarations of intent and deliveries to the company is registered for entry in the Commercial Register with a domestic address, this information must also be entered; this authorisation shall continue to apply vis-a-vis third parties until such time as it is deleted from the Commercial Register and the deletion has been made known, unless the lack of authorisation was known to the third party.</align>
+<align>(repealed)</align>
+<align>Section 11 Legal status prior to entry</align>
+<align>A limited liability company shall not exist as such until the company has been entered in the Commercial Register at the place of its registered office.</align>
+<align>Where acts are performed in the company’s name before the entry is made, the persons acting shall be personally as well as jointly and severally liable.</align>
+<align>Section 12 Company announcements</align>
+<align>Wherever the law or the articles of association provide that matters concerning the company must be announced, such announcement shall be effected by publication in the Federal Gazette (company’s designated publication).</align>
+<align>The articles of association may designate further public gazettes or electronic information media as the company’s designated publications.</align>
+<align>Part 2</align>
+<align>Legal relations of company and shareholders</align>
+<align>Section 13 Legal person; commercial company</align>
+<align>A limited liability company as such has independent rights and obligations; it may acquire ownership of and other rights in real property, and may sue and be sued in court.</align>
+<align>The company assets alone shall serve to discharge the company’s obligations vis-a-vis its creditors.</align>
+<align>The company is deemed to be a commercial company within the meaning of the Commercial Code.</align>
+<align>Section 14 Obligation to pay capital contribution</align>
+<align>A capital contribution shall be paid for each share.</align>
+<align>The amount of the capital contribution to be paid is determined on the basis of the nominal value of the share as stipulated in the articles of association upon the formation of the company.</align>
+<align>In the event of a capital increase, the amount of the capital contribution to be paid is determined on the basis of the nominal value of the share as set out in the declaration of subscription.</align>
+<align>Section 15 Transfer of shares</align>
+<align>Shares shall be alienable and inheritable.</align>
+<align>If a shareholder purchases further shares in addition to his original share, these shall remain legally independent.</align>
+<align>An agreement concluded in notarial form shall be required for the transfer of shares by shareholders.</align>
+<align>An agreement establishing the shareholder’s obligation to transfer a share shall likewise require notarial form.</align>
+<align>However, an agreement concluded without such notarial form shall become valid once the transfer agreement is concluded pursuant to subsection (3).</align>
+<align>The articles of association may stipulate that the transfer of shares be made dependent on further conditions, in particular the company’s consent.</align>
+<align>Section 16 Legal status following change in shareholders or extent of participation; purchase from non-authorised persons</align>
+<align>In the event of a change in the person of a shareholder or the extent of his participation, the owner, in relation to the company, of a share shall be deemed to be only whoever has been included as such in the list of shareholders entered in the Commercial Register (section 40).</align>
+<align>A legal act performed by the transferee in relation to the company shall be deemed effective from the beginning if the list is entered in the Commercial Register without undue delay after performance of the legal act.</align>
+<align>The transferee as well as the transferor shall be held liable in respect of obligations to pay capital contributions which are overdue at the point in time from which the transferee is deemed, in relation to the company, to be the owner of the share pursuant to subsection (1), first sentence.</align>
+<align>The transferee may effectively acquire a share or a right in a share from a non-authorised person by legal transaction if the transferor has been named as the owner of the share in the list of shareholders entered in the Commercial Register.</align>
+<align>This shall not apply if, at the time of the purchase, the list was incorrect in respect of the share for no more than three years and the incorrectness cannot be attributed to the person entitled.</align>
+<align>Further, a purchase in good faith cannot be made if the transferee is aware of the lack of authorisation or is unaware of the lack of authorisation as a consequence of gross negligence or if an objection to the list has been entered.</align>
+<align>The objection is entered on the basis of an interim order or on the basis of the approval of that person against whose authorisation the objection has been raised.</align>
+<align>A threat to the right of the person raising the objection need not be substantiated.</align>
+<align>Section 17 (repealed)</align>
+<align>Section 18 Joint ownership of share</align>
+<align>If several joint owners are entitled to one undivided share, they may exercise the rights arising from that share only jointly.</align>
+<align>They shall be jointly and severally liable vis-a-vis the company for the payments to be effected against the share.</align>
+<align>Legal acts which the company must perform vis-a-vis the owner of the share shall, in so far as there is no joint representative for the joint owners, also be effective if they are only performed vis-a-vis one of the joint owners.</align>
+<align>This provision shall apply to several inheritors of a shareholder only in regard to legal acts performed after one month has elapsed since the devolution of the inheritance.</align>
+<align>Section 19 Payment of capital contributions</align>
+<align>Payment of capital contributions in respect of the shares shall be made in proportion to the contributions in cash.</align>
+<align>The shareholders may not be exempt from the obligation to pay the capital contributions.</align>
+<align>A payment may be offset against the company’s claim only in the form of a claim arising from the transfer of assets whose crediting against the obligation to pay capital contributions has been agreed in accordance with section 5 (4), first sentence.</align>
+<align>No right of retention may be asserted against the object of a contribution in kind on the basis of claims which do not refer to the object.</align>
+<align>The shareholders may be exempt from the obligation to pay capital contributions on the basis of a capital reduction at most in the amount of that contribution by which the share capital has been reduced.</align>
+<align>If, upon economic consideration and on the basis of an agreement reached in connection with the taking over of a contribution in cash, a contribution in cash made by a shareholder is to be regarded either fully or partly as a contribution in kind (hidden contribution in kind), this does not exempt the shareholder from the obligation to pay a capital contribution.</align>
+<align>However, the agreements concerning the contribution in kind and the legal acts performed to execute them shall not be ineffective.</align>
+<align>The value of the asset at the point in time at which the company files the application for entry in the Commercial Register or the point in time of its assignment to the company, if this is a later point in time, shall be credited against the shareholder’s continuing obligation to pay a contribution in cash.</align>
+<align>The crediting shall not be effected before the company is entered in the Commercial Register.</align>
+<align>The burden of proof regarding the intrinsic value of the assets shall be on the shareholder.</align>
+<align>If a payment to the shareholder has been agreed prior to the capital contribution which corresponds, in economic terms, to a repayment of the capital contribution and this is not to be regarded as a hidden contribution in kind within the meaning of subsection (4), this exempts the shareholder from his obligation to pay a capital contribution only if the payment is covered by the full right of return which is due at any time or can fall due on account of termination without notice by the company.</align>
+<align>Reference to such payment or the agreement to make such payment shall be included in the application for registration made in accordance with section 8.</align>
+<align>The company’s claim to payment of the contributions shall become statute-barred ten years after the claim arises.</align>
+<align>If insolvency proceedings are opened against the company’s assets, the period of limitation shall not end until six months have elapsed since the insolvency proceedings were opened.</align>
+<align>Section 20 Default interest</align>
+<align>A shareholder who does not pay the amount called in on the original capital share as and when it is due shall be obligated to pay default interest by operation of law.</align>
+<align>Section 21 Forfeiture</align>
+<align>In the event of delayed payment, the defaulting shareholder may be issued with a renewed request to make the payment within a specified grace period under penalty of his exclusion along with the share for which the payment is to be made.</align>
+<align>The request shall be made by registered letter.</align>
+<align>The grace period must be no less than one month.</align>
+<align>After fruitless expiry of this period the defaulting shareholder shall be declared to have forfeited his share and any partial payments made to the company.</align>
+<align>The declaration shall be made by registered letter.</align>
+<align>A shareholder who has been excluded shall remain liable for any loss the company incurs on account of the defaulted amount or the amounts of the original capital share called in against the share at a later point in time.</align>
+<align>Section 22 Liability of legal predecessors</align>
+<align>The last and each previous legal predecessor of an excluded shareholder who is deemed to be the owner, in relation to the company, of the share shall also be held liable for any unfulfilled obligation to pay capital contributions on the part of an excluded shareholder.</align>
+<align>An earlier legal predecessor shall be held liable only in so far as the payment cannot be redeemed from his legal successor; this is to be assumed to be the case until the opposite is proven if the latter has not made the payment by the end of one month after the request for payment having been sent to him and notification thereof having been sent to the legal predecessor.</align>
+<align>The legal predecessor’s liability shall be limited to payments called in within a period of five years on the basis of the obligation to pay capital contributions.</align>
+<align>The period begins to run on that day from which the legal successor is to be regarded as the owner of the share in the company.</align>
+<align>The legal predecessor acquires the excluded shareholder’s share against payment of the outstanding amount.</align>
+<align>Section 23 Auction of share</align>
+<align>If payment of the outstanding amount cannot be collected from any legal predecessors, the company may have the share sold by way of public auction.</align>
+<align>Any other form of sale shall be permissible only with the consent of the excluded shareholder.</align>
+<align>Section 24 Raising shortfalls</align>
+<align>Where an original capital share can neither be collected from the person obligated to pay it nor covered by the sale of the share, the remaining shareholders must raise the shortfall in proportion to their shares.</align>
+<align>Amounts which cannot be collected from individual shareholders shall be distributed in the aforementioned proportion amongst the remaining shareholders.</align>
+<align>Section 25 Mandatory provisions</align>
+<align>The shareholders may not be exempt from the legal consequences set out in sections 21 to 24.</align>
+<align>Section 26 Obligation to pay additional contributions</align>
+<align>The articles of association may determine that, in addition to the nominal values of the shares, the shareholders may take decisions to call in additional payments (additional contributions).</align>
+<align>Additional contributions shall be paid in proportion to the shares.</align>
+<align>The articles of association may restrict the obligation to pay an additional contribution to a certain amount to be determined in proportion to the shares.</align>
+<align>Section 27 Unlimited obligation to pay additional contributions</align>
+<align>If the obligation to pay an additional contribution is not limited to a specified amount, each shareholder, if he has paid the capital share in full, shall have the right to be exempt from payment of the additional contribution called in on the share by making the share available to the company within one month after the call to make the payment in order to satisfy the request to pay the additional contribution.</align>
+<align>Likewise, if the shareholders have neither availed themselves of the above-mentioned power nor made the payment within the aforementioned period, the company may declare by registered letter that it regards the share to be at the company’s disposal.</align>
+<align>The company shall have the share sold at public auction within one month after the shareholder’s or the company’s declaration has been made.</align>
+<align>Any other form of sale shall be permissible only with the consent of the shareholder.</align>
+<align>The shareholder shall be entitled to any profits remaining after the costs of sale and the outstanding additional contribution have been covered.</align>
+<align>If the company cannot be satisfied by the sale, the share shall fall to the company.</align>
+<align>The company shall be authorised to sell the share for its own account.</align>
+<align>The articles of association may restrict the application of the foregoing provisions to cases where the additional payments called in on the share exceed a specific amount.</align>
+<align>Section 28 Limited obligation to pay additional contributions</align>
+<align>If the obligation to pay an additional contribution is limited to a specific amount and the articles of association do not provide otherwise, in the event of delayed payment of additional contributions the provisions set out in sections 21 to 23 in respect of the payment of capital shares shall apply mutatis mutandis.</align>
+<align>The same shall also apply in the case referred to in section 27 (4) in the case of an unlimited obligation to pay an additional contribution if the additional contributions do not exceed the amount set out in the articles of association.</align>
+<align>The articles of association may stipulate that a request for payment of additional contributions to which the provisions set out in sections 21 to 23 apply shall be permissible even before payment of the capital shares has been fully collected.</align>
+<align>Section 29 Appropriation of earnings</align>
+<align>The shareholders shall have a claim to the annual surplus plus any profit carried forward and minus any losses carried forward in so far as the resulting amount is not excluded from distribution amongst the shareholders by law or the articles of association, by decision in accordance with subsection (2) or as additional expenses on the basis of the decision concerning the appropriation of earnings.</align>
+<align>If the balance sheet is prepared taking account of the partial appropriation of the earnings or if reserves are released, the shareholders shall, in derogation of the first sentence, have a claim to the net earnings shown in the balance sheet.</align>
+<align>Unless the articles of association provide otherwise, the shareholders may allot the amounts to retained earnings or carry them forward as profit on the basis of a resolution to appropriate earnings.</align>
+<align>The profit shall be distributed in proportion to the shares.</align>
+<align>The articles of association may stipulate another criterion for distribution.</align>
+<align>Notwithstanding subsections (1) and (2) and deviating agreements regarding profit distribution in accordance with subsection (3), second sentence, the directors may, with the consent of the supervisory board or the shareholders, allocate to other retained earnings the capital share of those appreciations in value of fixed and current assets.</align>
+<align>The amount of these reserves must be entered separately in the balance sheet; it may also be stated in the annex.</align>
+<align>Section 30 Capital maintenance</align>
+<align>The assets which the company requires to maintain its share capital may not be paid out to the shareholders.</align>
+<align>The first sentence shall not apply to payments made upon the existence of a control or profit transfer agreement (section 291 of the Stock Corporation Act) or to payments which are covered by a full claim to counterperformance or restitution against the shareholder.</align>
+<align>The first sentence shall also not be applicable to the repayment of a shareholder loan and payments against claims arising from legal acts which correspond economically to a shareholder loan.</align>
+<align>If they are not needed to cover a loss in share capital, any paid in additional contributions may be repaid to the shareholders.</align>
+<align>The repayment may not be made before three months have elapsed since the decision to make the repayment was made known in accordance with section 12.</align>
+<align>In the case referred to in section 28 (2), repayment of additional contributions shall be inadmissible before the share capital has been deposited in full.</align>
+<align>Repaid additional contributions shall be deemed not to have been collected.</align>
+<align>Section 31Reimbursement of prohibited repayments</align>
+<align>Payments which have been made in contravention of the provisions set out in section 30 must be reimbursed to the company.</align>
+<align>If the recipient was acting in good faith, reimbursement may only be requested in so far as it is necessary to satisfy the company’s creditors.</align>
+<align>If the reimbursement cannot be collected from the recipient, the remaining shareholders shall be liable, in proportion to their shares, for the amount to be reimbursed, in so far as it is necessary to satisfy the company’s creditors.</align>
+<align>Amounts which cannot be collected from individual shareholders shall be distributed across the remaining shareholders in the same proportion referred to in the above.</align>
+<align>Those obligated to make payments on the basis of the above provisions may not be released from these obligations.</align>
+<align>The company’s claims in thecasesreferred toin subsection(1) shall become statute-barred after ten years and in thecasesreferred toin subsection(3) after five years.</align>
+<align>Theperiod of limitation begins to runat theend of thatday on whichthe payment whosereimbursement is being claimedis made.</align>
+<align>Section19 (6), second sentence, shall applymutatis mutandis in the cases referred to in subsection (1).</align>
+<align>As regards the reimbursement of a payment made in the cases referred to in subsection, the directors who are at fault for the payment made shall be jointly and severally liable to pay compensation to the shareholders.</align>
+<align>The provisions set out in section 43 (1) and (4) shall apply mutatis mutandis.</align>
+<align>Section 32 Repayment of profit</align>
+<align>If the condition set out in section 31 (1) is not met, the shareholders shall on no account be obligated to repay amounts which they obtained as profit shares in good faith.</align>
+<align>Section 32a (repealed)</align>
+<align>Section 32b (repealed)</align>
+<align>Section 33 Purchase of own shares</align>
+<align>The company may not purchase or take in pledge own shares for which the capital contributions have not yet been paid in full.</align>
+<align>The company may purchase own shares for which capital contributions have been paid in full only if at the time of the purchase it could form reserves in the amount of the expenditures for the purchase without reducing the share capital or reserves to be formed in accordance with the articles of association and which may not be used to make payments to the shareholders.</align>
+<align>The company may take such shares in pledge only if the total amount of the claims secured on account of taking own shares in pledge or, if the value of the shares taken in pledge is lower, this amount is not greater than the assets available over and above the share capital.</align>
+<align>An infringement of the first and second sentences shall not make the acquisition of or taking of the shares in pledge ineffective; however, the legal obligation in respect of a prohibited acquisition or prohibited acceptance of own shares in pledge shall be null and void.</align>
+<align>The purchase of own shares shall further be admissible to compensate shareholders in accordance with section 29 (1), section 122i (1), second sentence, section 125, first sentence, in conjunction with section 29 (1) and section 207 (1) of the Transformation Act if the purchase is made within six months after the effective date of the transformation or after the court decision becomes final and at the point in time of the purchase the company was able to form reserves in the amount of the expenditure for the purchase without reducing the share capital or reserves to be formed in accordance with the articles of association and which may not be used to make payments to the shareholders.</align>
+<align>Section 34 Collection of shares</align>
+<align>Shares may be collected by the company only in so far as this is permissible in accordance with the articles of association.</align>
+<align>Collection shall be made without the consent of the person entitled to the share only if the preconditions therefor were determined in the articles of association before the point in time at which the person entitled purchased the share.</align>
+<align>The provisions set out in section 30 (1) shall remain unaffected.</align>
+<align>Part 3</align>
+<align>Representation and management</align>
+<align>Section 35 Representation of company</align>
+<align>The company shall be represented in and out of court by the directors.</align>
+<align>If a company has no director, the company shall be represented by the shareholders whenever declarations of intent are made or documents are served on it.</align>
+<align>If several directors have been appointed, they shall only all be jointly entitled to represent the company, unless otherwise provided in the articles of association.</align>
+<align>Where a declaration of intent is to be made to the company, it shall be sufficient for it to be made to one representative of the company in accordance with subsection (1).</align>
+<align>Declarations of intent may be made to and documents addressed to the company may be served on the representatives of the company referred to in subsection (1) under the address entered in the Commercial Register.</align>
+<align>Notwithstanding that, the declarations may also be made to and documents may also be served under the registered address to persons authorised in accordance with section 10 (2), second sentence.</align>
+<align>If all the company’s shares are held by one shareholder or besides by the company and if that shareholder is at the same time the sole director, section 181 of the German Civil Code shall apply to his legal transactions with the company.</align>
+<align>Legal transactions between him and the company he represents shall, even if he is not the sole director, be documented without undue delay following their performance.</align>
+<align>Section 35a</align>
+<align>Required particulars in business letters All business letters, regardless of their form, which are addressed to a specific recipient must indicate the company’s legal form and registered office, the court of registration at the place of the company’s registered office and the number under which the company has been entered in the Commercial Register, the directors and, if the company has established a supervisory board and the supervisory board has a chairperson, the chairperson of the supervisory board together with his family name and at least one given name written out in full.</align>
+<align>Where information is supplied regarding the company’s capital, the share capital as well as, if all the capital contributions to be made in cash have not yet been made, the overall amount of the outstanding capital contributions must in any case be stated.</align>
+<align>The particulars referred to in subsection (1), first sentence, shall not be necessary in notifications or reports issued in connection with an existing business relationship and for which forms are generally used in which only the required particular needs to be entered in an individual case.</align>
+<align>Order forms shall be deemed to be business letters within the meaning of subsection (1).</align>
+<align>Subsection (2) shall not apply to them.</align>
+<align>All business letters and order forms used by a branch office of a limited liability company with a registered office abroad must include the register in which the branch office is recorded and the number of the register entry; in all other respects, the provisions set out in subsections (1) to (3) shall apply to particulars regarding the main office and the branch office in so far as foreign legislation does not require any deviations therefrom.</align>
+<align>If the foreign company is in liquidation, this fact and all the liquidators shall also be indicated.</align>
+<align>Section 36 Targets and deadlines in respect of equal participation of women and men</align>
+<align>The directors of a company which is subject to co-determination shall set targets regarding the proportion of women in the two management levels below the directors.</align>
+<align>If the proportion of women is below 30 per cent when the targets are set, then the targets may no longer fall below the previously achieved proportion of women.</align>
+<align>At the same time, deadlines are to be set by which these targets are to be achieved.</align>
+<align>The deadlines may not exceed five years in each case.</align>
+<align>Section 37 Restrictions on power of representation</align>
+<align>The directors shall be obligated vis-a-vis the company to observe those restrictions which have been set out in the articles of association as regards the extent of their power to represent the company or, unless otherwise provided therein, by resolutions passed by the shareholders.</align>
+<align>A restriction of the directors’ power to represent the company shall have no legal effect in respect of third persons.</align>
+<align>This shall in particular apply to those cases in which the representation is restricted to certain business or types of business only or only under certain circumstances or for a certain period of time or in specific places, or where the consent of the shareholders or a company organ is required for the conduct of specific business.</align>
+<align>Section 38 Revocation of appointment</align>
+<align>The directors’ appointment may be revoked at any time without prejudice to claims for compensation resulting from existing agreements.</align>
+<align>The articles of association may restrict the permissibility of the revocation to cases in which there are important grounds therefor.</align>
+<align>Serious breach of duty or the incapacity for proper management shall be deemed to be such grounds.</align>
+<align>Section 39 Registration of directors</align>
+<align>An application for entry in the Commercial Register shall be made for each change in the person of one of the directors and the termination of a director’s power of representation.</align>
+<align>The application for entry shall include the original copies or publicly authorised copies of the documents concerning the appointment of the directors or concerning the termination of their powers of representation.</align>
+<align>The new directors shall give their assurance in the application for registration that there are no circumstances which pose an obstacle to their appointment in accordance with section 6 (2), second sentence, nos 2 and 3, and the third sentence, and that they have been instructed about their unlimited duty to disclose information to the court. Section 8 (3), second sentence, shall apply.</align>
+<align>(repealed)</align>
+<align>Section 40 List of shareholders, authorisation to issue statutory instruments</align>
+<align>Once each change in the person of a shareholder or the extent of his participation becomes effective the directors shall without undue delay submit to the Commercial Register a list of shareholders signed by the directors which indicates the family name, given name, date of birth and place of residence of those shareholders as well as the nominal values and the consecutive numbers of each of the shares to which the shareholders have subscribed and which also indicates the relevant percentage interest in the share capital conferred by the nominal value of each respective share.</align>
+<align>If a shareholder is himself a company, then in the case of registered companies the list shall include the business name, registered office, the relevant register and number of the entry in the register, in the case of non-registered companies their shareholders including family name, given name, date of birth and place of residence under a summarising designation.</align>
+<align>Where a shareholder holds more than one share, the list of shareholders shall separately indicate his total interest in the share capital as a percentage.</align>
+<align>The directors shall effect changes to the list by notification and furnishing proof.</align>
+<align>Where a notary has been involved in making the changes referred to in subsection (1), first sentence, he shall, without undue delay upon the changes becoming effective and without regard to any later grounds for them becoming ineffective, sign the list instead of the directors, shall submit the list to the Commercial Register and send a copy of the amended list to the company.</align>
+<align>The list must be furnished with notarial certification that the amended entries correspond to the changes in which he was involved and that the remaining entries correspond to the content of the last list which was included in the Commercial Register.</align>
+<align>Directors who infringe a duty incumbent upon them in accordance with subsection (1) shall be held jointly and severally liable for the resulting damage vis-a-vis those directors whose participation has changed and the company’s creditors.</align>
+<align>The Federal Ministry of Justice and Consumer Protection shall be authorised, by statutory instrument requiring the consent of the Bundesrat, to make provisions concerning the content and form of the list of shareholders.</align>
+<align>The Land (federal state) governments shall be authorised to determine, by statutory instrument, that certain information contained in the list of shareholders must be submitted to the Commercial Register in a structured, machine-readable form, unless the Federal Ministry of Justice and Consumer Protection issues corresponding provisions pursuant to section 387 (2) of the Act on Proceedings in Family Matters and in Matters of Non-Contentious Jurisdiction.</align>
+<align>The Land governments may transfer this authorisation by statutory instrument to the Land departments of justice.</align>
+<align>Section 41 Book-keeping</align>
+<align>The directors are obligated to ensure proper book-keeping for the company.</align>
+<align>Section 42 Balance sheet</align>
+<align>The balance sheet in the annual financial statements to be prepared in accordance with sections 242 and 264 of the Commercial Code shall indicate the share capital as subscribed capital.</align>
+<align>The company’s right to collect additional contributions from the shareholders shall be included in the asset side of the balance sheet to the extent that the collection has already been completed and the shareholders have no right to exemption from payment of additional contributions by making reference to the share.</align>
+<align>The additional payment to be collected shall be entered separately on the asset side under receivables and shall be designated “additional contributions called in” if payment is anticipated.</align>
+<align>An amount corresponding to the asset side shall be entered separately on the liabilities side and designated “capital reserves”.</align>
+<align>Loans, receivables and payables vis-a-vis the shareholders shall generally be entered separately in each case or stated in the annex; if they are shown under other entries, a note shall be made thereof.</align>
+<align>Section 42a Presentation of annual financial statements and management report</align>
+<align>The directors shall present the annual financial statements and the management report to the shareholders without undue delay after their preparation so that the annual financial statements may be approved.</align>
+<align>If the annual financial statements are to be audited by an auditor, the directors must present them together with the management report and the auditor’s audit report without undue delay after receipt of the audit report.</align>
+<align>If the company has a supervisory board, its report on the result of its audit shall likewise be presented without undue delay.</align>
+<align>The shareholders shall take a decision concerning the approval of the annual financial statements and the appropriation of earnings at the latest within the first eight months or, if their company is classed as a small company (section 267 (1) of the Commercial Code), within the first eleven months of the financial year.</align>
+<align>The articles of association may not extend the time limit.</align>
+<align>The provisions applicable to the preparation of the annual financial statements shall apply to their approval.</align>
+<align>Where an auditor has audited the annual financial statements, he must, upon the request of one of the shareholders, take part in the negotiations on the approval of the annual financial statements.</align>
+<align>If the company is obligated to prepare consolidated financial statements and a consolidated management report, subsections (1) to (3) shall apply mutatis mutandis. The same shall apply regarding separate financial statements in accordance with section</align>
+<align>325 (2a) of the Commercial Code if the shareholders have taken a decision to disclose separate financial statements.</align>
+<align>Section 43 Directors’ liability</align>
+<align>The directors shall conduct the company’s affairs with the due care of a prudent businessman.</align>
+<align>Directors who breach the duties incumbent upon them shall be jointly and severally liable to the company for any damage arising.</align>
+<align>In particular, they shall be obligated to compensate where payments have been made in contravention of section 30 from those company assets which are required to maintain the share capital or the company’s own shares have been purchased in contravention of the provisions set out in section 33.</align>
+<align>The provisions set out in section 9b (1) shall apply mutatis mutandis to a claim for compensation.</align>
+<align>Where compensation must be paid to satisfy the company’s creditors, the directors’ obligation shall not be abrogated on account of the fact that they acted in compliance with a resolution passed by the shareholders.</align>
+<align>The claims based on the aforementioned provisions shall become statute-barred after five years.</align>
+<align>Section 43a Granting of credit from company assets</align>
+<align>The directors, other legal representatives, persons vested with the general commercial power of representation or persons vested with the commercial power of attorney for the entire business establishment may not be granted a credit from the company assets which are required to maintain the level of share capital.</align>
+<align>A credit granted in breach of the first sentence must be repaid immediately and without regard to any agreements to the contrary.</align>
+<align>Section 44 Deputies to directors</align>
+<align>The provisions applicable to the directors shall also apply to their deputies.</align>
+<align>Section 45 Rights of shareholders</align>
+<align>The rights which shareholders are accorded in the company’s affairs, in particular in regard to the management of its business and in the performance thereof, shall be determined in accordance with the articles of association, unless otherwise provided by statutory provision.</align>
+<align>For want of any specific provisions in the articles of association, the provisions set out in sections 46 to 51 shall apply.</align>
+<align>Section 46 Duties of shareholders</align>
+<align>The following shall be subject to the shareholders’ disposition:</align>
+<align>The approval of the annual financial statements and the appropriation of earnings;</align>
+<align>la.Decisions concerning the disclosure of separate financial statements in accordance with international accounting standards (section 325 (2a) of the Commercial Code) and concerning the approval of the financial statements prepared by the directors;</align>
+<align>lb.The approval of consolidated financial statements prepared by the directors;</align>
+<align>Thecalling in of capital contributions;</align>
+<align>Therepayment of additional contributions;</align>
+<align>Thedivision of, grouping and collection of shares;</align>
+<align>Theappointment and dismissal of the directors, aswellas their discharge;</align>
+<align>Theregulation of audits and oversight of the management;</align>
+<align>The appointment of those vested with the general commercial power of representation and those vested with the commercial power of attorney for the entire business establishment;</align>
+<align>The assertion of claims for compensation to which the company is entitled from the formation or the management is entitled vis-a-vis directors or shareholders, as well as the representation of the company in proceedings being conducted against the directors.</align>
+<align>Section 47 Voting</align>
+<align>The determinations in respect of the company’s affairs which are subject to the shareholders’ disposition shall be made by the passing of a resolution with a majority of the votes cast.</align>
+<align>Each euro of a share grants one vote.</align>
+<align>Powers of attorney shall require text form in order to be valid.</align>
+<align>A shareholder who is to be discharged or exempt from an obligation by resolution shall have no voting right in this connection nor may he exercise that voting right for another.</align>
+<align>The same shall apply to a resolution concerning the performance of a legal transaction or the initiation or termination of a lawsuit against a shareholder.</align>
+<align>Section 48 Meeting of shareholders</align>
+<align>Shareholder resolutions shall be passed in a meeting.</align>
+<align>A meeting need not be held if the shareholders all declare their consent to the disposition in question in text form or by submitting their votes in writing.</align>
+<align>If all the company’s shares are held by one shareholder or in addition by the company, he shall document this in writing and sign the document without undue delay after the resolution is passed.</align>
+<align>Section 49 Convocation of meeting</align>
+<align>The meeting of shareholders shall be convened by the directors.</align>
+<align>Apart from any cases expressly laid down, a meeting shall be convened where it appears necessary in the company’s interest.</align>
+<align>A meeting must in particular be convened without undue delay if it is clear from the annual financial statements or the balance sheet prepared in the course of the financial year that half of the share capital has been lost.</align>
+<align>Section 50 Minority rights</align>
+<align>Shareholders whose shares together make up at least one tenth of the share capital shall be entitled to request that a meeting be convened, stating the purpose and the grounds therefor.</align>
+<align>In the same manner, the shareholders shall have the right to request that matters on which decisions are to be taken in the meeting be made known.</align>
+<align>If the request is not complied with or there is no person to whom the request can be directed, the shareholders referred to in subsection (1) may themselves convene the meeting or make the announcement by giving notification of the matter to be addressed.</align>
+<align>The meeting shall decide whether the company is to carry the costs arising.</align>
+<align>Section 51 Form of convocation</align>
+<align>A meeting shall be convened by invitation sent to the shareholders by registered letter.</align>
+<align>The invitation must be sent at least one week in advance.</align>
+<align>The purpose of the meeting shall always be made known upon the convocation.</align>
+<align>If the meeting has not been properly convened, resolutions may be passed only if all the shareholders are present.</align>
+<align>The same shall apply in regard to resolutions concerning matters which have not been announced at least three days prior to the meeting in the manner prescribed for the convocation of meetings.</align>
+<align>Section 51a</align>
+<align>Right to information and right of inspection The directors must without undue delay provide each shareholder, upon their request, with information on the company’s affairs and allow them to inspect the books and company documents.</align>
+<align>The directors may refuse to provide information or permit inspection if there is a concern that the shareholder may make use thereof for non-company purposes and thereby put the company or an associated company at a not insignificant disadvantage.</align>
+<align>Refusal shall require a resolution of the shareholders.</align>
+<align>These provisions may not be derogated by the articles of association.</align>
+<align>Section 51bCourt decision on right to information and right of inspection</align>
+<align>Section 132 (1), (3) and (4) of the Stock Corporation Act shall apply mutatis mutandis to a court decision concerning the right to information and the right of inspection.</align>
+<align>Each shareholder who has not been given the requested information or who has not been permitted to inspect the files as requested shall be authorised to file an application. Section 52 Supervisory board If the articles of association stipulate that a supervisory board is to be appointed, section 90 (3), (4), (5), first and second sentences, section 95, first sentence, section 100 (1)</align>
+<align>and (2), no. 2, and subsection (5), section 101 (1), first sentence, section 103 (1), first and second sentences, section 105, section 107 (3), second and third sentences, and subsection (4), sections 110 to 114 and section 116 of the Stock Corporation Act in conjunction with section 93 (1) and (2), first and second sentences, of the Stock Corporation Act, section 124 (3), second sentence, sections 170, 171,394 and 395 of the Stock Corporation Act shall apply mutatis mutandis, unless otherwise provided in the articles of association.</align>
+<align>Where a supervisory board is to be appointed in accordance with the One-Third Participation Act, the meeting of shareholders shall set targets regarding the proportion of women on the supervisory board and the proportion of women directors, unless it has delegated this task to the supervisory board.</align>
+<align>Where a supervisory board is to be appointed in accordance with the Co-determination Act, the Act on Co-determination in the Coal, Iron and Steel Industry or the Supplementary Co-determination Act, the supervisory board shall set targets regarding the proportion of women on the supervisory board and the proportion of women directors.</align>
+<align>If the proportion of women is below 30 per cent when the targets are set, then the targets may no longer fall below the previously achieved proportion of women.</align>
+<align>The deadlines may not exceed five years in each case.</align>
+<align>If the members of the supervisory board are appointed before the company is entered in the Commercial Register, section 37 (4), nos 3 and 3a, of the Stock Corporation Act shall apply mutatis mutandis.</align>
+<align>Whenever there is a change in the members of the supervisory board, the directors shall without undue delay submit to the Commercial Register a list of the members of the supervisory board indicating their family name, given name, profession and place of residence; in accordance with section 10 of the Commercial Code, the court shall give notice that the list has been submitted to the Commercial Register.</align>
+<align>Claims for compensation against the members of the supervisory board on account of a violation of their obligations shall become statute-barred after five years.</align>
+<align>Part 4 Amendments to articles of association</align>
+<align>Section 53 Form of amendment to articles of association</align>
+<align>A resolution of the shareholders shall be required for any amendment to the articles of association.</align>
+<align>The resolution must be recorded by a notary and requires a majority of three quarters of the votes cast.</align>
+<align>The articles of association may set out additional requirements.</align>
+<align>A resolution to increase those obligations which the shareholders are bound to in accordance with the articles of association may be passed only with the consent of all the involved shareholders.</align>
+<align>Section 54 Application for registration and entry of amendment to articles of association</align>
+<align>Any amendment to the articles of association must be entered in the Commercial Register.</align>
+<align>The application shall include the full text of the articles of association; a notary must certify that the amended provisions in the articles of association correspond to the resolution to amend the articles of association and that the unamended provisions correspond to the last complete text of the articles of association which was submitted to the Commercial Register.</align>
+<align>Unless the change concerns the information referred to in section 10, reference to the documents submitted to the court concerning the amendment shall suffice when entering the amendment.</align>
+<align>The amendment shall be without legal effect until it has been entered in the Commercial Register at the place of the company’s registered office.</align>
+<align>Section 55 Increase in share capital</align>
+<align>Where a resolution is passed to increase the share capital, a declaration by the person subscribing to the share which has been recorded and authenticated by a notary shall be required for each share in the increased capital subscribed to.</align>
+<align>Previous shareholders or other persons who have declared that they are joining the company by making the subscription may be permitted by the company to subscribe to a share.</align>
+<align>In the latter case, the document referred to in subsection (1) shall indicate the nominal value of the share as well as other obligations which the person joining the company is to be under in accordance with the articles of association.</align>
+<align>Where a shareholder who is already a member of the company subscribes to a share in the increased capital, he shall acquire an additional share.</align>
+<align>The provisions set out in section 5 (2) and (3) concerning the nominal values of the shares and the provisions set out in section 19 (6) on the statute of limitations regarding the company’s claim for payment of the capital contribution shall also apply in respect of shares in the increased capital subscribed to.</align>
+<align>Section 55a Authorised capital</align>
+<align>The articles of association may authorise the directors for a maximum of five years after entry of the company in the Commercial Register to increase the share capital up to a specified nominal value (authorised capital) by issuing new shares against payment of a capital contribution.</align>
+<align>The nominal value of the authorised capital may not exceed one half of the share capital available at the time of the authorisation.</align>
+<align>The authorisation may also be issued by amending the articles of association for a maximum of five years after its entry in the Commercial Register.</align>
+<align>Shares may be issued against contributions in kind (section 56) only if provision is made therefor in the authorisation.</align>
+<align>Section 56 Capital increase with contributions in kind</align>
+<align>Where contributions in kind are to be made, their object and the nominal value of the share to which the contributions in kind refers must be specified in the resolution to increase the share capital.</align>
+<align>The determination shall be included in the declaration made by the subscriber referred to in section 55 (1).</align>
+<align>Section 9 and section 19 (2), second sentence, and subsection (4) shall apply mutatis mutandis.</align>
+<align>Section 56a Payments towards new share capital</align>
+<align>Section 7 (2), first sentence, and subsection (3), as well as section 19 (5) shall apply mutatis mutandis to the payment of capital contributions towards the new share capital.</align>
+<align>Section 57 Application to register increase</align>
+<align>The resolution to increase the share capital shall be registered for entry in the Commercial Register after the increased capital has been covered by means of the subscription to shares.</align>
+<align>The application to register the increase in the share capital must include an assurance that the capital contributions towards the new share capital have been effected in accordance with section 7 (2), first sentence, and subsection (3) and that the object of the obligations is finally at the free disposal of the directors. Section 8 (2), second sentence, shall apply mutatis mutandis.</align>
+<align>The application shall include the following:</align>
+<align>The declarations referred to in section 55 (1) or a certified copy thereof;</align>
+<align>A list of those persons who have subscribed to the new shares which has been signed by the persons filing the application; the list must indicate the nominal values of the shares to which each person has subscribed;</align>
+<align>In the case of a capital increase with contributions in kind, the agreements on which the determinations referred to in section 56 are based or which were concluded to execute them.</align>
+<align>Section 9a (1) and (3) and section 9b shall apply mutatis mutandis to the responsibilities of those directors who have registered the capital increase for entry in the Commercial Register.</align>
+<align>Section 57a Refusal to make entry</align>
+<align>Section 9c (1) shall apply mutatis mutandis to the court’s refusal to make the entry.</align>
+<align>Section 57b (repealed)</align>
+<align>Section 57c</align>
+<align>Capital increase from company funds The share capital may be increased by transforming reserves into share capital (capital increase from company funds).</align>
+<align>A resolution to increase the share capital may be passed only after approval of the annual financial statements for the last complete financial year before the resolution to increase the capital is passed (last annual financial statements) and a resolution has been passed regarding the appropriation of earnings.</align>
+<align>The resolution to increase the share capital shall be based on a balance sheet.</align>
+<align>In addition to sections 53 and 54 concerning amendments to the articles of association, sections 57d to 57o shall also apply.</align>
+<align>Section 57d Entry of capital reserves and retained earnings</align>
+<align>The capital reserves and retained earnings which are to be transformed into share capital must be entered in the last annual balance sheet and, if the resolution is based on another balance sheet, also in that balance sheet, as “capital reserves” or “retained earnings” or in the last resolution to appropriate the profit for the year as a transfer to these reserves.</align>
+<align>The reserves may not be transformed if the balance sheet on which they are based reports a loss, including a loss carried forward.</align>
+<align>Other retained earnings which are intended to serve a specific purpose may be transformed only in so far as this is consistent with their intended purpose.</align>
+<align>Section 57e</align>
+<align>Taking last annual balance sheet as basis; audit The resolution may be based on the last annual balance sheet if the annual balance sheet has been audited and the auditors have added their unlimited audit opinion to the approved annual balance sheet and if its reference date is at most eight months before filing of the application for entry of the resolution in the Commercial Register.</align>
+<align>In the case of companies which are not large companies within the meaning of section 267 (3) of the Commercial Code, the audit may also be performed by certified accountants; the auditors must be elected by the meeting of shareholders.</align>
+<align>Section 57f Requirements of balance sheet</align>
+<align>If the resolution is not based on the last annual balance sheet, the balance sheet must fulfil the provisions on the structure of an annual balance sheet and on the valuation rates in the annual balance sheet.</align>
+<align>The reference date for the balance sheet may not be more than eight months before the application for entry of the resolution in the Commercial Register is filed.</align>
+<align>Before a resolution to increase the share capital is passed, the balance sheet must be examined by one or more auditors in regard to whether it meets the requirements set out in subsection (1).</align>
+<align>If, following the auditors’ conclusive result, no objections are to be raised, the auditors must certify this by adding their audit opinion.</align>
+<align>No resolution to increase the share capital may be adopted without such certification by the auditors.</align>
+<align>The auditors shall be elected by the shareholders; if no other auditors are elected, then those auditors shall be deemed to have been elected who were elected by the shareholders or appointed by the court to audit the last annual financial statements.</align>
+<align>Furthermore, where the specifics of the audit assignment do not provide otherwise, section 318 (1), second sentence, section 319 (1) to (4), section 319a (1), section 319b (1), section 320 (1), second sentence, and subsection (2), and sections 321 and 323 of the Commercial Code shall apply.</align>
+<align>In the case of companies which are not large companies within the meaning of section 267 (3) of the Commercial Code, certified accountants may also be appointed to perform the audit.</align>
+<align>Section 57g Advance notice of annual financial statements</align>
+<align>The provisions set out in the articles of association concerning advance notification of the annual financial statements to the shareholders shall apply mutatis mutandis to the cases referred to in section 57f.</align>
+<align>Section 57h Types of capital increase</align>
+<align>Subject to section 57l (2), the capital increase may be effected by creating new shares or by increasing the nominal value of the shares.</align>
+<align>The new shares and the shares whose nominal value is increased must be made out in a full euro amount.</align>
+<align>The resolution to increase the share capital must state the type of capital increase.</align>
+<align>Where the capital increase is to be effected by increasing the nominal value of the shares, the increase must be determined so that no amounts are allotted to any shares whose nominal value is being increased which cannot be covered by increasing the nominal value of the share.</align>
+<align>Section 57i Registration and entry of resolution to increase share capital</align>
+<align>The application to enter the resolution to increase the share capital in the Commercial Register must include the balance sheet on which the capital increase is based, to which the auditors’ audit opinion has been added, and in the cases referred to in section 57f also the last annual balance sheet, unless it has already been submitted in accordance with section 325 (1) of the Commercial Code.</align>
+<align>The persons filing the application must declare to the court of registration that, to their knowledge, no reduction in assets has occurred between the reference date of the balance sheet on which the increase is based and the day on which the application for entry is filed which would preclude the capital increase if it had been passed on the day on which the application was filed.</align>
+<align>The court of registration may enter the resolution only if the balance sheet on which the capital increase is based was prepared no more than eight months before the application is filed and a declaration in accordance with subsection (1), second sentence, has been made.</align>
+<align>The court shall not be obligated to examine whether the balance sheet fulfils statutory requirements.</align>
+<align>When entering the resolution, an indication must be given that the capital increase is being made from company funds.</align>
+<align>Section 57j Allocation of shares</align>
+<align>The new shares shall be available to the shareholders in proportion to their existing shares.</align>
+<align>Any contrary resolution passed by the shareholders shall be null and void.</align>
+<align>Section 57k Partial rights; exercise of rights</align>
+<align>If the capital increase leads to only part of a new share being allotted to a share, then this partial right shall be independently alienable and inheritable.</align>
+<align>The rights arising from a new share, including the right to issuance of a certificate on the new share, may be exercised only if partial rights which together amount to a full share are held by a single shareholder or if several entitled persons whose partial rights together amount to a full share jointly exercise their rights (section 18).</align>
+<align>Section 57l Participation in increase in share capital</align>
+<align>Own shares shall participate in the increase in the share capital.</align>
+<align>Partially paid in shares shall participate in the increase in the share capital in accordance with their nominal value.</align>
+<align>In such cases the capital increase may only be effected by increasing the nominal value of the shares.</align>
+<align>If fully paid in shares exist alongside partially paid in shares, then in their case the capital increase may be effected by increasing the nominal value of the shares and by creating new shares.</align>
+<align>The shares whose nominal value is increased may be issued in any full euro amount.</align>
+<align>Section 57m Relation between rights; relationships to third parties</align>
+<align>The relation between the rights associated with the shares shall not be affected by the capital increase.</align>
+<align>Where individual rights of shares which have been partially paid in, in particular any profit sharing or voting rights, are determined by the capital contribution paid per share, these rights shall be accorded to the shareholders up until the outstanding capital contributions have been paid only in the amount of the capital contributions which have been paid in plus the percentage of the increase in the share capital added to the nominal value of the share capital.</align>
+<align>If further payments are made, these rights shall increase accordingly.</align>
+<align>The economic content of the contractual relationships between the company and third parties which are dependent on the company’s distribution of profits, the nominal value or the value of their shares or share capital or are dependent in another way on the previous capital and earnings ratios shall not be affected by the capital increase.</align>
+<align>Section 57n Profit share of new shares</align>
+<align>Unless otherwise provided, the new shares shall participate in the profit accruing across the entire financial year in which the resolution to increase the share capital was passed.</align>
+<align>The resolution to increase the share capital may stipulate that the new shares already participate in the profit accruing across the last complete financial year before the capital increase resolution was passed.</align>
+<align>In such cases, the increase in the share capital shall be decided, in derogation of section 57c (2), before a decision is taken regarding the appropriation of earnings for the last complete financial year before the resolution was passed.</align>
+<align>The resolution to appropriate earnings for the last complete financial year before the capital increase resolution was passed does not become effective until the share capital has been increased.</align>
+<align>The resolution to increase the share capital and the resolution to appropriate earnings for the last complete financial year before the capital increase resolution was passed shall be null and void if the capital increase resolution is not entered in the Commercial Register within three months after it is passed; this period shall be suspended whilst an action for avoidance or annulment is pending.</align>
+<align>Section 57o Purchase costs</align>
+<align>The purchase costs of the shares acquired before the increase in the share capital and of the new shares allotted to them shall be deemed to be the amounts resulting for the individual shares if the purchase costs of the shares acquired before the increase in the share capital are distributed across them and the new shares allotted to them in the same proportion as the nominal values.</align>
+<align>The increase in shares shall not be accounted for as receipts.</align>
+<align>Section 58 Reduction in share capital</align>
+<align>A reduction in the share capital may be effected only if the following provisions are observed:</align>
+<align>The directors must give notification of the resolution to reduce the share capital in the company’s designated publications; in this notification they must also ask the company’s creditors to contact the company; the creditors indicated in the company’s trading books or who are known in another way shall be asked by separate notification to register;</align>
+<align>Those creditors who contact the company and do not give their consent to the reduction shall be satisfied or indemnified in respect of the claims asserted;</align>
+<align>The application to enter the resolution to reduce the share capital in the Commercial Register shall not be made until one year has elapsed since that day on which the creditors were asked to contact the company via the company’s designated publications;</align>
+<align>The notification of the resolution shall be enclosed with the application; the directors must also give the assurance that those creditors who contacted the company and who have not given their consent to the reduction in the share capital have been satisfied or indemnified.</align>
+<align>The provisions set out in section 5 (1) concerning the minimum amount of the share capital shall remain unaffected.</align>
+<align>If the reduction is effected for the purpose of repaying capital contributions or for the purpose of remitting those capital contributions which have been deposited, the remaining nominal values of the shares may not fall below the amount designated in section 5 (2) and (3).</align>
+<align>Section 58a Simplified capital reduction</align>
+<align>Any reduction in the share capital which serves to compensate for depreciations in value or to cover other losses may be effected as a simplified capital reduction.</align>
+<align>Simplified capital reduction shall be permissible only after that part of the capital reserves and retained earnings which together exceeds ten per cent of the share capital remaining after the reduction has already been released.</align>
+<align>It shall not be permissible whilst there is any profit carryforward.</align>
+<align>The resolution on simplified capital reduction shall adapt the nominal values of the shares to the reduced share capital.</align>
+<align>The shares must be issued in a full euro amount.</align>
+<align>The share capital may be reduced below the minimum nominal value referred to in section 5 (1) if that amount is achieved again by means of a capital increase on which a decision is taken at the same time as the decision on the capital reduction and for which no contributions in kind are determined.</align>
+<align>The resolutions shall be null and void if they have not been entered in the Commercial Register within three months of being passed.</align>
+<align>This period shall be suspended whilst an action for avoidance or annulment is pending.</align>
+<align>The resolutions shall only be jointly entered in the Commercial Register.</align>
+<align>Sections 58b to 58f shall apply in addition to sections 53 and 54 concerning amendments to the articles of association.</align>
+<align>Section 58b Amounts from release of reserves and capital reduction</align>
+<align>Amounts deriving from the release of capital reserves or retained earnings and from the capital reduction may be used only to compensate for depreciations in value and other losses.</align>
+<align>In addition, the derived amounts may be allocated to the capital reserves in so far as they do not exceed ten per cent of the share capital.</align>
+<align>Share capital shall be deemed to be the nominal value which results on account of the reduction, however at least the minimum nominal value permissible in accordance with section 5 (1).</align>
+<align>The amount which has been allocated to the capital reserves on the basis of subsection (2) may be used before the end of the fifth financial year which begins after the capital reduction resolution is passed only</align>
+<align>to compensate for an annual shortfall in so far as it is not covered by profit carried forward from the previous year and it cannot be compensated by releasing retained earnings;</align>
+<align>to compensate for losses carried forward from the previous year in so far as they are not covered by an annual surplus and cannot be compensated by releasing retained earnings;</align>
+<align>to increase capital from company funds.</align>
+<align>Section 58c Non-occurrence of assumed losses</align>
+<align>If it transpires, when preparing the annual balance sheet for the financial year in which the capital reduction resolution was passed or for one of the two subsequent financial years, that depreciations in value and other losses do not actually occur in the amount assumed upon the passing of the resolution or they were compensated for, then the difference shall be allocated to the capital reserves.</align>
+<align>Section 58b (3) shall apply mutatis mutandis to an amount allocated to the capital reserves in accordance with the first sentence.</align>
+<align>Section 58d Distribution of profits</align>
+<align>Profits may be distributed before the end of the fifth financial year which begins after the capital reduction resolution is passed only if the capital reserves and retained earnings together amount to ten per cent of the share capital.</align>
+<align>Share capital shall be deemed to be the nominal value resulting from the reduction in capital, at least, however, the minimum nominal value permissible in accordance with section 5 (1).</align>
+<align>The payment of a share in the profits of more than four per cent shall be permissible only for a financial year which begins later than two years after the capital reduction resolution is passed.</align>
+<align>This shall not apply if those creditors whose claims were established before entry of the resolution was made known are satisfied or indemnified, in so far as they contacted the company in that regard within six months after publication of the annual financial statements on the basis of which a decision on the distribution of profits was taken.</align>
+<align>Those creditors need not be satisfied who, in the event of insolvency proceedings being opened, have a right to preferential satisfaction from a state-supervised covering fund created in accordance with a statutory provision for their protection.</align>
+<align>Notice given in accordance with section 325 (2) of the Commercial Code shall draw the creditors’ attention to such satisfaction or indemnification.</align>
+<align>Section 58e Capital reduction resolution</align>
+<align>The annual financial statements for the last complete financial year before the capital reduction resolution was passed may indicate the share capital as well as capital reserves and retained earnings in the amount in which they are to exist after the reduction in the capital.</align>
+<align>This shall not apply if the annual financial statements are approved in a manner other than by a resolution of the shareholders.</align>
+<align>The resolution to approve the annual financial statements shall be passed at the same time as the capital reduction resolution.</align>
+<align>The resolutions shall be null and void if the capital reduction resolution has not been entered in the Commercial Register within three months of being passed.</align>
+<align>This period shall be suspended whilst an action for avoidance or annulment is pending.</align>
+<align>The annual financial statements may not be disclosed in accordance with section 325 of the Commercial Code until the capital reduction resolution has been entered in the Commercial Register.</align>
+<align>Section 58f Capital reduction with simultaneous increase in share capital</align>
+<align>If, in the case referred to in section 58e, a resolution is passed to increase the share capital at the same time as a decision is taken on capital reduction, account may also be taken in the annual financial statements of the effected capital increase.</align>
+<align>The resolution shall be permissible only if the new shares are subscribed to, no contributions in kind are determined and if payment of each of the new shares which must be effected in accordance with section 56a is effected at the filing of the application to enter the capital increase.</align>
+<align>Proof of subscription and payment must be furnished to that notary who authenticates the resolution to increase the share capital.</align>
+<align>The resolutions shall all be null and void if the resolutions on capital reduction and capital increase have not been entered in the Commercial Register within three months of being passed.</align>
+<align>This period shall be suspended whilst an action for avoidance or annulment is pending.</align>
+<align>The resolutions shall only be entered jointly in the Commercial Register.</align>
+<align>The annual financial statements may not be disclosed in accordance with section 325 of the Commercial Code until the resolutions on capital reduction and capital increase have been entered in the Commercial Register.</align>
+<align>Section 59 (repealed)</align>
+<align>Part 5 Dissolution and nullity of company</align>
+<align>Section 60 Grounds for winding up company</align>
+<align>The limited liability company shall be wound up</align>
+<align>upon expiry of the period specified in the articles of association;</align>
+<align>by resolution of the shareholders; unless otherwise provided in the articles of association, such a resolution shall require a majority of three quarters of the votes cast;</align>
+<align>by court judgment or by a decision of the administrative court or the administrative authority in the cases referred to in sections 61 and 62;</align>
+<align>upon the opening of insolvency proceedings; if the proceedings are terminated upon the application of the debtor or the proceedings are set aside after confirmation of the insolvency plan which provides for the continuance of the company, the shareholders may pass a resolution to continue the company;</align>
+<align>upon the decision to refuse to open insolvency proceedings for insufficiency of assets becoming final;</align>
+<align>upon an order issued by the court of registration establishing that the articles of association are defective in accordance with section 399 of the Act on Proceedings in Family Matters and in Matters of Non-Contentious Jurisdiction becoming final;</align>
+<align>upon the company being deleted from the Commercial Register due to lack of funds in accordance with section 394 of the Act on Proceedings in Family Matters and in Matters of Non-Contentious Jurisdiction.</align>
+<align>The articles of association may stipulate other grounds for winding up the company.</align>
+<align>Section 61 Dissolution by court judgment</align>
+<align>The company may be wound up by court judgment if it becomes impossible to achieve the company’s purpose or if there are other important grounds for winding up the company which are rooted in the company’s circumstances.</align>
+<align>The action to obtain judicial dissolution shall be brought against the company.</align>
+<align>It may be brought only by shareholders whose shares together amount to at least one tenth of the share capital.</align>
+<align>That regional court in whose district the company has its registered office shall have exclusive jurisdiction in regard to such an action.</align>
+<align>Section 62 Dissolution by administrative authority</align>
+<align>Where a company endangers the public good on account of the shareholders passing illegal resolutions or knowingly permitting the directors to carry out illegal acts, the company may be wound up without a claim to compensation thereby arising.</align>
+<align>The procedure and the competent authorities shall be determined by the provisions applicable to contentious administrative matters.</align>
+<align>Section 63 (repealed)</align>
+<align>Section 64 Liability for payments following illiquidity or over-indebtedness</align>
+<align>The directors shall be obligated to compensate the company for payments made after the company has become illiquid or after it is deemed to be over-indebted.</align>
+<align>This shall not apply to payments which, after this point in time, are compatible with the due care of a prudent businessman.</align>
+<align>The directors shall be under the same obligation in regard to payments to shareholders if these led to the company becoming illiquid, unless this was not recognisable whilst observing the due care referred to in the second sentence.</align>
+<align>Section 43 (3) and (4) shall apply mutatis mutandis to any claim for compensation.</align>
+<align>Section 65 Registration and entry of dissolution</align>
+<align>The dissolution of the company shall be registered for entry in the Commercial Register.</align>
+<align>This shall not apply in cases in which insolvency proceedings are opened or the opening of insolvency proceedings is refused or when a court establishes that the articles of association are defective.</align>
+<align>In such cases the court shall enter the dissolution and the grounds therefor ex officio.</align>
+<align>In the event of the company being deleted from the Commercial Register (section60 (1), no. 7), the entry regarding the dissolution shall not be made.</align>
+<align>The liquidators shall announce the dissolution in the company’s designated publications.</align>
+<align>The announcement shall also include a request that the company’s creditors contact the company.</align>
+<align>Section 66 Liquidators</align>
+<align>In cases where the company is wound up, except in the event of insolvency proceedings being opened against the company, the directors shall liquidate the company unless this task is assigned to other persons in the articles of association or by a resolution passed by the shareholders.</align>
+<align>Upon the application of shareholders whose shares together amount to at least one tenth of the share capital, the liquidators may be appointed by the court for important reasons.</align>
+<align>The liquidators may be dismissed by the court under the same conditions as are applicable to their appointment.</align>
+<align>Liquidators who are not appointed by the court may also be dismissed by a resolution passed by the shareholders before the end of the period for which they were appointed.</align>
+<align>Section 6 (2), second and third sentences, shall apply mutatis mutandis when selecting the liquidators.</align>
+<align>If the company has been dissolved by deletion from the Commercial Register for lack of funds, the company shall be liquidated only if it transpires after the deletion that there are assets which must be distributed.</align>
+<align>The liquidators shall be appointed by the court upon the application of a party concerned.</align>
+<align>Section 67 Registration of liquidators</align>
+<align>The first liquidators and their powers of representation shall be registered for entry in the Commercial Register by the directors; each change in the person of one of the liquidators and each change in their power of representation shall be registered by the liquidators for entry in the Commercial Register.</align>
+<align>The application shall include the documents concerning the appointment of the liquidators or the change in the person of one of the liquidators in the original or publicly certified copies thereof.</align>
+<align>The liquidators shall give their assurance in the application that there are no circumstances which preclude their appointment in accordance with section 66 (4) in conjunction with section 6 (2), second sentence, nos 2 and 3, and the third sentence, and that they have been instructed about their unlimited duty to disclose information to the court. Section 8 (3), second sentence, shall apply.</align>
+<align>The court shall make the entry regarding the appointment or dismissal of the liquidators ex officio.</align>
+<align>(repealed)</align>
+<align>Section 68 Signature of liquidators</align>
+<align>The liquidators shall make their declarations of intent and shall sign for the company in the manner determined upon their appointment.</align>
+<align>Unless otherwise provided, the declaration and the signature shall be made by all the liquidators.</align>
+<align>The signatures shall be made in such a manner that the liquidators affix their signature to the business name, which must from then on be designated as a company in liquidation.</align>
+<align>Section 69 Legal relations of company and shareholders</align>
+<align>Notwithstanding the company’s dissolution, until such time as its liquidation is completed the provisions set out in Part 2 and 3 shall apply in regard to the legal relations of the company and of the shareholders, unless the provisions of this Part and the nature of the liquidation require otherwise.</align>
+<align>The place of jurisdiction which the company had at the time of its dissolution shall remain the same until such time as the distribution of its assets has been completed.</align>
+<align>Section 70 Duties of liquidators</align>
+<align>The liquidators shall complete the company’s ongoing business, fulfil the obligations of the dissolved company, collect its receivables and turn the company’s assets into money; they shall represent the company in and out of court.</align>
+<align>The liquidators may also enter into new business transactions in order to complete pending transactions.</align>
+<align>Section 71 Opening balance; rights and duties</align>
+<align>The liquidators shall prepare a balance sheet (opening balance) at the start of the liquidation as well as a report explaining the opening balance, and they shall also prepare annual financial statements and a management report at the end of each year.</align>
+<align>The shareholders shall pass a resolution to approve the opening balance and the annual financial statements, as well as to discharge the liquidators.</align>
+<align>The provisions concerning the annual financial statements shall apply mutatis mutandis to the opening balance and to the explanatory report.</align>
+<align>However, assets shall be treated as current assets in so far as their sale is planned within a foreseeable period or these assets are no longer used for business operations; the same shall apply to the annual financial statements.</align>
+<align>The court may grant exemption from the need for an auditor to audit the annual financial statements and the management report if the company’s circumstances are so straightforward that an audit does not appear to be necessary in the interests of the creditors and the shareholders.</align>
+<align>An appeal against this decision is permissible.</align>
+<align>In all other respects, the liquidators shall have the rights and duties of directors resulting from sections 37, 41,43 (1), (2) and (4), section 49 (1) and (2) and section 64.</align>
+<align>Business letters must indicate that the company is in liquidation; section 35a shall, in all other respects, apply mutatis mutandis.</align>
+<align>Section 72 Distribution of assets</align>
+<align>The company’s assets shall be distributed amongst the shareholders in the same proportion as their shares.</align>
+<align>The articles of association may stipulate that another ratio shall apply to the distribution.</align>
+<align>Section 73 Twelve-month ban</align>
+<align>The distribution may not be effected before the company’s debts have been discharged or indemnified and not until the end of one year from that day on which the creditors were requested via the company’s designated publications to contact the company (section 6 (2)).</align>
+<align>If a known creditor does not contact the company, the amount owed shall be deposited for the creditor if such authorisation to deposit the amount exists.</align>
+<align>If it is not possible to adjust a liability at that time or a liability is contested, the assets may be distributed only if the creditor has been granted a security.</align>
+<align>Liquidators who contravene these provisions shall be obligated to jointly and severally compensate for the distributed amounts.</align>
+<align>The provisions set forth in section 43 (3) and (4) shall apply mutatis mutandis to any claim for compensation.</align>
+<align>Section 74 End of liquidation</align>
+<align>Once the liquidation has been completed and the final accounts have been prepared, the liquidators shall apply for completion of the liquidation to be entered in the Commercial Register.</align>
+<align>The company must then be deleted from the Commercial Register.</align>
+<align>After the liquidation has been completed, the company’s books and documents shall be deposited for safe-keeping with one of the shareholders or with a third party for a period of ten years.</align>
+<align>If the articles of association contain no provision or the shareholders pass no resolution in this regard, the shareholder or the third party shall be appointed by the court.</align>
+<align>The shareholders and their legal successors shall be entitled to inspect the books and company documents.</align>
+<align>The company’s creditors may be authorised by the court to inspect the books and company documents.</align>
+<align>Section 75 Proceedings for annulment</align>
+<align>If the articles of association do not contain any provisions regarding the amount of the share capital or regarding the company’s object, or if the provisions set out in the articles of association on the company’s object are null and void, each shareholder, each director and, if a supervisory board has been appointed, each member of the supervisory board, may apply, by way of a legal action, for the company to be declared null and void.</align>
+<align>The provisions set forth in sections 246 to 248 of the Stock Corporation Act shall apply mutatis mutandis.</align>
+<align>Section 76 Remedying of defects by resolution passed by shareholders</align>
+<align>A defect which affects the provisions on the company’s object may be remedied by way of a resolution of the shareholders passed by unanimous vote.</align>
+<align>Section 77 Effect of annulment</align>
+<align>If the annulment of a company has been entered in the Commercial Register, the provisions applicable to the winding up of a company shall apply mutatis mutandis in regard to the winding up of its affairs.</align>
+<align>The effectiveness of legal transactions with third parties effected in the name of the company shall not be affected by the annulment.</align>
+<align>The shareholders shall make the promised payments in so far as this is necessary in the fulfilment of liabilities which they have assumed.</align>
+<align>Part 6</align>
+<align>Regulatory, criminal and administrative fines provisions</align>
+<align>Section 78 Persons obligated to effect registration</align>
+<align>The applications for entry in the Commercial Register provided for in this Act shall be effected by the directors or by the liquidators, the applications provided for in section 7 (1), section 57 (1), section 57i (1) and section 58 (1), no. 3, shall be effected by all the directors jointly.</align>
+<align>Section 79 Coercive fines</align>
+<align>Directors or liquidators who do not comply with sections 35a and 71 (5) shall be required to do so by the court of registration by means of the imposition of a coercive fine; section 14 of the Commercial Code shall remain unaffected.</align>
+<align>Each individual coercive fine may not exceed the amount of five thousand euros.</align>
+<align>With due regard for the applications for entry in the Commercial Register referred to in sections 7, 54, 57 (1) and section 58 (1), no. 3, a coercive fine shall not be imposed in accordance with section 14 of the Commercial Code in so far as this refers to the application for entry of the company’s registered office in the Commercial Register.</align>
+<align>Section 80 (repealed)</align>
+<align>Section 81 (repealed)</align>
+<align>Section 82 False representation</align>
+<align>(1) Whoever makes false statements</align>
+<align>in their capacity as shareholder or director for the purpose of making an entry concerning the company in respect of the subscription to shares, the payment of capital contributions, the use of amounts paid in, special benefits, expenses for formation and contributions in kind,</align>
+<align>in their capacity as shareholder in the report on company formation on the basis of contributions in kind,</align>
+<align>in their capacity as director for the purpose of entering an increase in the share capital by subscribing to or entering new capital or by means of contributions in kind,</align>
+<align>in their capacity as director in the declaration prescribed in section 57i (1), second sentence, or</align>
+<align>in their capacity as director of a limited liability company or as manager of a foreign legal entity in the assurance to be made in accordance with section 8 (3), first sentence, or section 39 (3), first sentence, or in their capacity as liquidator in the assurance to be made in accordance with section 67 (3), first sentence,</align>
+<align>shall be liable to imprisonment for no more than three years or a fine.</align>
+<align>(2) Whoever,</align>
+<align>in their capacity as director, for the purpose of reducing the share capital makes a false assurance on the satisfaction or indemnification of the company’s creditors or</align>
+<align>in their capacity as director, liquidator, member of the supervisory board or similar organ, in a public notification falsely represents or conceals the company’s assets, if the act is not threatened with punishment in section 331, no. 1 or no. 1a, of the Commercial Code,</align>
+<align>shall be liable under the same terms.</align>
+<align>Section 83 (repealed)Section 84</align>
+<align>Breach of duty to give notification of losses Whoever fails, in their capacity as director, to notify the shareholders of a loss in the amount of half of the share capital, shall be liable to imprisonment for no more than three years or a fine.</align>
+<align>If the actor acts negligently, he shall be liable to imprisonment for no more than one year or a fine.</align>
+<align>Section 85 Breach of confidentiality</align>
+<align>Whoever without authority discloses a company secret, in particular a business or trade secret, which has become known to him in his capacity as director, member of the supervisory board or liquidator, shall be liable to imprisonment for no more than one year or a fine.</align>
+<align>If the actor acts against payment or with the intent to enrich himself or another or to harm another, he shall be liable to imprisonment for no more than two years or a fine.</align>
+<align>Whoever without authority makes use of a secret of the type referred to in subsection (1), in particular a business or trade secret, which became known to him under the conditions referred to in subsection (1), shall be liable under the same terms.</align>
+<align>The act shall be prosecuted only upon the application of the company.</align>
+<align>Where a director or a liquidator has committed the act, the supervisory board and, if there is no supervisory board, special representatives appointed by the shareholders shall be authorised to make such application.</align>
+<align>Where a member of the supervisory board has committed the act, the directors or the liquidators shall be authorised to make such application.</align>
+<align>Section 86Breach of duties in respect of statutory audits</align>
+<align>(1) Whoever, in their capacity as member of a supervisory board or member of an audit committee of a company which is capital market-oriented within the meaning of section 264d of the Commercial Code, a CRR credit institution within the meaning of section 1 (3d), first sentence, of the Banking Act, with the exception of the institutions referred to in section 2 (1), nos 1 and 2, of the Banking Act, or an insurance undertaking within the meaning of Article 2(1) of Directive 91/674/EEC of the Council of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings (OJ L 374, 31.12.1991, p. 7), as last amended by Directive 2006/46/EC (OJ L 224, 16.8.2006, p. 1),</align>
+<align>carries out one of the acts referred to in section 87 (1) and receives a pecuniary</align>
+<align>advantage therefor or allows such a pecuniary advantage to be promised to him or</align>
+<align>persistently repeats one of the acts referred to in section 87 (1),</align>
+<align>shall be liable to imprisonment for no more than one year or a fine.</align>
+<align>(2) Whoever, in their capacity as member of a supervisory board or member of an audit committee of a company which is capital market-oriented within the meaning of section 264d of the Commercial Code, a CRR credit institution within the meaning of section 1 (3d), first sentence, of the Banking Act, with the exception of the institutions referred to in section 2 (1), nos 1 and 2, of the Banking Act,</align>
+<align>carries out one of the acts referred to in section 87 (2) or (3) and receives a pecuniary advantage therefor or allows such a pecuniary advantage to be promised to him or</align>
+<align>persistently repeats one of the acts referred to in section 87 (2) or (3), shall be liable under the same terms.</align>
+<align>Section 87 Regulatory fines provisions</align>
+<align>Whoever, in their capacity as member of a supervisory board or member of an audit committee of a company which is capital market-oriented within the meaning of section 264d of the Commercial Code, a CRR credit institution within the meaning of section 1 (3d), first sentence, of the Banking Act, with the exception of the institutions referred to in section 2 (1), nos 1 and 2, of the Banking Act, or an insurance undertaking within the meaning of Article 2(1) of Directive 91/674/EEC of the Council of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings (OJ L 374, 31.12.1991, p. 7), as last amended by Directive 2006/46/EC (OJ L 224, 16.8.2006, p. 1),</align>
+<align>does not monitor the independence of the statutory auditor or of the audit firm in accordance with the provisions of Article 4(3) subparagraph (2), of Article 5(4) subparagraph (1), first sentence, or of Article 6(2) of Regulation EU No 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision 2005/909/EU (OJ L 158, 27.5.2014, p. 77, L 170, 11.6.2014, p. 66) or</align>
+<align>makes a recommendation regarding the appointment of a statutory auditor or of an audit firm which is not based on a request made by the supervisory authority pursuant to section 36 (1), second sentence, of the Insurance Supervision Act and which</align>
+<align>does not comply with the requirements under Article 16(2) subparagraphs(2) or (3) of Regulation (EU) No 537/2014 or</align>
+<align>was not preceded by a selection procedure in accordance with Article 16(3) subparagraph (1) of Regulation (EU) No 537/2014, shall be deemed to have committed a regulatory offence.</align>
+<align>Whoever, in their capacity as member of a supervisory board which has not appointed an audit committee, submits a proposal to the shareholders of a company which is capital market-oriented within the meaning of section 264d of the Commercial Code or a CRR credit institution within the meaning of section 1 (3d), first sentence, of the Banking Act, with the exception of the institutions referred to in section 2 (1), nos 1 and 2, of the Banking Act, regarding the appointment of a statutory auditor or of an audit firm which does not comply with the requirements under Article 16(5) subparagraph (1) of Regulation (EU) No 537/2014, shall be deemed to have committed a regulatory offence.</align>
+<align>Whoever, in their capacity as member of a supervisory board which has appointed an audit committee, submits a proposal to the shareholders of one of the companies referred to in subsection (2) regarding the appointment of a statutory auditor or of an audit firm which does not comply with the requirements under Article 16(5) subparagraph (1) or subparagraph (2), first sentence, or second sentence, of Regulation (EU) No 537/2014, shall be deemed to have committed a regulatory offence.</align>
+<align>A fine of no more than fifty thousand euros may be imposed on a regulatory offence.</align>
+<align>The administrative authority within the meaning of section 36 (1), no. 1, of the Act on Regulatory Offences shall, in the case of CRR credit institutions within the meaning of section 1 (3d), first sentence, of the Banking Act, with the exception of the institutions referred to in section 2 (1), nos 1 and 2, of the Banking Act, and in the case of insurance undertakings within the meaning of Article 2(1) of Directive 91/674/EEC, be the Federal Financial Supervisory Authority (Bundesanstalt fur Finanzdienstleistungsaufsicht), in all other cases the Federal Office of Justice (Bundesamt fur Justiz).</align>
+<align>Section 88 Notifications to audit oversight body</align>
+<align>The administrative authority competent in accordance with section 87 (5) shall transfer to the audit oversight body at the Federal Office of Economics and Export Control (Bundesamt fur Wirtschaft und Ausfuhrkontrolle) all regulatory fines decisions referred to in section 87 (1) to (3).</align>
+<align>In criminal proceedings whose subject-matter is an offence as referred to in section 86, the public prosecution office shall, in the event of public charges being preferred, transmit to the audit oversight body the decision which concludes the proceedings.</align>
+<align>If the decision has been appealed, the decision shall be transmitted together with a reference to which kind of appeal was filed.</align>

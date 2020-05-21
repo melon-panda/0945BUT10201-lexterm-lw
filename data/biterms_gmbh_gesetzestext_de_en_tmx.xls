@@ -1,0 +1,4003 @@
+<html>
+  <head>
+    <title>biterms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Source</th><th>Target</th><th>Score</th><th>Co-freq</th><th>L1 Freq</th><th>L2 Freq</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>Sinn</td>
+          <td>meaning</td>
+          <td>14.000</td>
+          <td>18</td>
+          <td>18</td>
+          <td>18</td>
+        </tr>
+        <tr>
+          <td>Firma</td>
+          <td>business name</td>
+          <td>14.000</td>
+          <td>8</td>
+          <td>8</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>abgelaufenes Geschäftsjahr</td>
+          <td>last complete financial year</td>
+          <td>14.000</td>
+          <td>6</td>
+          <td>6</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Inhaber</td>
+          <td>owner</td>
+          <td>14.000</td>
+          <td>6</td>
+          <td>6</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>genanntes Institut</td>
+          <td>exception</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Vorjahr</td>
+          <td>previous year</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Verwaltungsbehörde</td>
+          <td>administrative authority</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Versicherungsunternehmen</td>
+          <td>insurance</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Urteil</td>
+          <td>judgment</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Sorgfalt</td>
+          <td>due care</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Prüfungsausschuss</td>
+          <td>committee</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Kreditwesengesetz Genannten Institute</td>
+          <td>exception</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Institut</td>
+          <td>exception</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Erwerber</td>
+          <td>transferee</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Ausnahme</td>
+          <td>exception</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>voller Euro</td>
+          <td>full euro amount</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>ordentlicher Geschäftsmann</td>
+          <td>prudent businessman</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>eingeschriebener Brief</td>
+          <td>registered letter</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Vorname</td>
+          <td>family name</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Prüfungsgesellschaft</td>
+          <td>statutory auditor</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Lauf der Frist</td>
+          <td>avoidance</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Jahresüberschuss</td>
+          <td>surplus</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Geschäftsmann</td>
+          <td>prudent businessman</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Brief</td>
+          <td>registered letter</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>264d des Handelsgesetzbuchs</td>
+          <td>credit institution</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>264d</td>
+          <td>credit institution</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>zehnter Teil</td>
+          <td>tenth</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>unbeschränkte Auskunftspflicht</td>
+          <td>unlimited duty</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>neues Stammkapital</td>
+          <td>new share capital</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>freiwillige Gerichtsbarkeit</td>
+          <td>non-contentious jurisdiction</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>freie Verfügung</td>
+          <td>free disposal</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>abgegebene Stimme</td>
+          <td>majority</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Zweigniederlassung</td>
+          <td>branch office</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Wohnort</td>
+          <td>residence</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Versteigerung</td>
+          <td>auction</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Verfügung der Geschäftsführer</td>
+          <td>free disposal</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Verbindung</td>
+          <td>conjunction</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Täter</td>
+          <td>actor</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Teil des Stammkapitals</td>
+          <td>tenth</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Stichtag</td>
+          <td>reference date</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Sinn des Artikels</td>
+          <td>eec</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Sachgründungsbericht</td>
+          <td>company formation</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Rechtsverordnung</td>
+          <td>statutory instrument</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Musterprotokoll</td>
+          <td>protocol</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Mindeststammkapital</td>
+          <td>minimum share capital</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Mindestnennbetrag</td>
+          <td>minimum nominal value</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Mehrheit</td>
+          <td>majority</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Gerichtsbarkeit</td>
+          <td>non-contentious jurisdiction</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Familiensache</td>
+          <td>non-contentious jurisdiction</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Ewg</td>
+          <td>eec</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Empfänger</td>
+          <td>recipient</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Auskunftspflicht</td>
+          <td>unlimited duty</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Angelegenheit der Freiwilligen Gerichtsbarkeit</td>
+          <td>non-contentious jurisdiction</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Abschlussprüferaufsichtsstelle</td>
+          <td>oversight body</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>öffentliche Versteigerung</td>
+          <td>public auction</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>zulässiger Mindestnennbetrag</td>
+          <td>value permissible</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>voller Geschäftsanteil</td>
+          <td>full share</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>verzögerte Einzahlung</td>
+          <td>event of delayed payment</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>verdeckte Sacheinlage</td>
+          <td>hidden contribution</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>säumiger Gesellschafter</td>
+          <td>defaulting shareholder</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>rechtliche Wirkung</td>
+          <td>legal effect</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>konsolidierter Abschluss</td>
+          <td>undertaking</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>inländische Geschäftsanschrift</td>
+          <td>domestic business address</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>gleiche Weise</td>
+          <td>same manner</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>gesamter Geschäftsbetrieb</td>
+          <td>general commercial power of representation</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>beginnendes Geschäftsjahr</td>
+          <td>fifth financial year</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>ausstehende Einlage</td>
+          <td>outstanding capital</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>andere Art</td>
+          <td>other form</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>alleiniger Geschäftsführer</td>
+          <td>sole director</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>[number]er Dezember</td>
+          <td>undertaking</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Zahlung des Rückständigen Betrags</td>
+          <td>outstanding amount</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Widerruf</td>
+          <td>revocation</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Weg Öffentlicher Versteigerung</td>
+          <td>public auction</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Vorsitzende</td>
+          <td>chairperson</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Vorschlag</td>
+          <td>proposal</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Viertel</td>
+          <td>quarter</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Veräußerer</td>
+          <td>transferor</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Textform</td>
+          <td>text form</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Prüfungsbericht</td>
+          <td>audit report</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Prokurist</td>
+          <td>general commercial power of representation</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Organ</td>
+          <td>organ</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Nachfrist</td>
+          <td>grace period</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Kapitalherabsetzung Beginnenden Geschäftsjahrs</td>
+          <td>fifth financial year</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Insolvenzplan</td>
+          <td>plan</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Handlungsbevollmächtigte</td>
+          <td>general commercial power of representation</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Handelsgesellschaft</td>
+          <td>commercial company</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Gesellschafterdarlehen</td>
+          <td>shareholder loan</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Geschäftsgeheimnis</td>
+          <td>trade secret</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Geheimnis</td>
+          <td>trade secret</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Geburtsdatum</td>
+          <td>birth</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Fall Verzögerter Einzahlung</td>
+          <td>event of delayed payment</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Ewg des Rates</td>
+          <td>undertaking</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Dezember</td>
+          <td>undertaking</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Bezirk</td>
+          <td>district</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Betrieb</td>
+          <td>trade secret</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Art des Verkaufs</td>
+          <td>other form</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Anrechnung</td>
+          <td>crediting</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Amt</td>
+          <td>officio</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Abkürzung</td>
+          <td>abbreviation</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>übrige Eintragung</td>
+          <td>notarial certification</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>übersehbarer Zeitraum</td>
+          <td>foreseeable period</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>öffentliches Blatt</td>
+          <td>electronic information</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>öffentliche Mitteilung</td>
+          <td>similar organ</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>öffentliche Klage</td>
+          <td>subject-matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ähnliches Organ</td>
+          <td>similar organ</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Überwachung der Geschäftsführung</td>
+          <td>audits</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Überwachung</td>
+          <td>audits</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Überschuss</td>
+          <td>outstanding additional contribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Übernahme der Geldeinlage</td>
+          <td>economic consideration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Übergang eines Unternehmens</td>
+          <td>material</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Übergang</td>
+          <td>material</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Überbewertung der Sacheinlagen</td>
+          <td>over-valuation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Überbewertung</td>
+          <td>over-valuation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Änderung des Gesellschaftsvertrags</td>
+          <td>last complete text</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Änderung der Liste</td>
+          <td>furnishing proof</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>§§e 35a</td>
+          <td>imposition</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusätzlicher Aufwand</td>
+          <td>resulting amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zuständiges Register</td>
+          <td>summarising designation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zuständige Verwaltungsbehörde</td>
+          <td>und</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusammenfassende Bezeichnung</td>
+          <td>summarising designation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wirtschaftlicher Inhalt</td>
+          <td>previous capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wirtschaftliche Betrachtung</td>
+          <td>economic consideration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wesentlicher Umstand</td>
+          <td>material</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorzugsweisee Befriedigung</td>
+          <td>state-supervised covering fund</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>voriger Absatz</td>
+          <td>such notarial form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorgenommenes Rechtsgeschäft</td>
+          <td>effectiveness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorgenommene Rechtshandlung</td>
+          <td>beginning</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vollziehbare Entscheidung</td>
+          <td>subject</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vollwertiger Rückgewähranspruch</td>
+          <td>return</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>volle Höhe</td>
+          <td>full amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vertragliche Beziehung</td>
+          <td>previous capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verständliche Abkürzung</td>
+          <td>comprehensible abbreviation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>versprochene Einzahlung</td>
+          <td>fulfilment</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verlangte Einsicht</td>
+          <td>supervisory</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verlangte Auskunft</td>
+          <td>supervisory</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vergleichbarer rechtsberatender Beruf</td>
+          <td>official</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verbundenes Unternehmen</td>
+          <td>non-company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verbotswidriger Erwerb</td>
+          <td>legal obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verbotswidrige Inpfandnahme</td>
+          <td>legal obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verbleibender Überschuss</td>
+          <td>outstanding additional contribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verbleibender Nennbetrag</td>
+          <td>repaying capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ursprünglicher Geschäftsanteil</td>
+          <td>original share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unwahre Versicherung</td>
+          <td>false assurance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unveränderte Bestimmung</td>
+          <td>last complete text</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unrichtige Darstellung</td>
+          <td>presentation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unerheblicher Nachteil</td>
+          <td>non-company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>uneingeschränkter Bestätigungsvermerk</td>
+          <td>unlimited audit opinion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unbeschränkte Nachschußpflicht</td>
+          <td>unlimited obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>teilweise Ergebnisverwendung</td>
+          <td>taking account</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>strukturierte maschinenlesbare Form</td>
+          <td>machine-readable form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>steuerbegünstigter Zweck</td>
+          <td>ggmbh</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>spezifische Anforderung</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sonstige Weise</td>
+          <td>previous capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sonstige Leistung</td>
+          <td>latter case</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schwebendes Geschäft</td>
+          <td>new business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schuldrechtliches Geschäft</td>
+          <td>legal obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schriftliche Abgabe</td>
+          <td>question</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>rückständiger Nachschuss</td>
+          <td>outstanding additional contribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>recht|rechtse Zeit</td>
+          <td>operation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>rechtsberatender Beruf</td>
+          <td>official</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>prozentuale Beteiligung</td>
+          <td>respective share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ordnungsmäßige Geschäftsführung</td>
+          <td>serious breach</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ordnungsmäßige Buchführung</td>
+          <td>proper book-keeping</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>odereine Empfehlung</td>
+          <td>supervisory authority</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>obliegende Pflicht</td>
+          <td>resulting damage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nichtige Bestimmung</td>
+          <td>void provision</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neues Kapital</td>
+          <td>new capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neues Geschäft</td>
+          <td>new business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neuer Geschäftsführer</td>
+          <td>obstacle</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nahe Bestimmung</td>
+          <td>bundesrat</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nachzuschießender Betrag</td>
+          <td>additional payment</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>maschinenlesbare Form</td>
+          <td>machine-readable form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>mangelnde Berechtigung</td>
+          <td>negligence</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>letztes Geschäftsjahr</td>
+          <td>material</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>letzter Fall</td>
+          <td>latter case</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>letzter Beschluss</td>
+          <td>last resolution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>laufendes Geschäft</td>
+          <td>ongoing business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>laufende Nummer</td>
+          <td>respective share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kleine Gesellschaft</td>
+          <td>small company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>jeweiliger Nennbetrag</td>
+          <td>respective share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>jeweiliger Gesellschafter</td>
+          <td>summarising designation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>jeweilige prozentuale Beteiligung</td>
+          <td>respective share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>internationaler Rechnungslegungsstandard</td>
+          <td>international accounting</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>inländische Anschrift</td>
+          <td>domestic address</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>handelnder Gesellschafter</td>
+          <td>own ignorance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gutgläubiger Erwerb</td>
+          <td>negligence</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>grobe Pflichtverletzung</td>
+          <td>serious breach</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleichzeitige Erhöhung</td>
+          <td>simultaneous increase</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiche Verpflichtung</td>
+          <td>same obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleichberechtigte Teilhabe</td>
+          <td>respect of equal participation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geänderte Eintragung</td>
+          <td>notarial certification</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geänderte Bestimmung</td>
+          <td>last complete text</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gewährter Kredit</td>
+          <td>contrary</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gewisses Geschäft</td>
+          <td>specific business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gewisser Umstand</td>
+          <td>specific business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>getroffene Vereinbarung</td>
+          <td>such notarial form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>getroffene Abrede</td>
+          <td>economic consideration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gesetzwidriger Beschluss</td>
+          <td>public good</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gesetzwidrige Handlung</td>
+          <td>public good</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gesetzlicher Vertreter</td>
+          <td>level of share capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gesellschaftsfremder Zweck</td>
+          <td>non-company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geschäftsfähige Person</td>
+          <td>person of full legal capacity</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geschuldeter Betrag</td>
+          <td>such authorisation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geschlossener Abtretungsvertrag</td>
+          <td>such notarial form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>genannte Tat</td>
+          <td>conviction</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gemeinsamer Vertreter</td>
+          <td>joint representative</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geleistete Zahlung</td>
+          <td>fault</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geleistete Teilzahlung</td>
+          <td>fruitless expiry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geleistete Erstattung</td>
+          <td>fault</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganzes Geschäftsjahr</td>
+          <td>entire financial year</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fruchtloser Ablauf</td>
+          <td>fruitless expiry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fristlose Kündigung</td>
+          <td>return</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fortbestehende Geldeinlagepflicht</td>
+          <td>continuing obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>folgendes Geschäftsjahr</td>
+          <td>difference</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>festzusetzender Betrag</td>
+          <td>certain amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>festgestellte Jahresbilanz</td>
+          <td>unlimited audit opinion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>festgesetzter Betrag</td>
+          <td>unlimited obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fehlende Empfangsberechtigung</td>
+          <td>domestic address</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fehlende Einzahlung</td>
+          <td>remuneration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>europäisches Parlament</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>erneute Aufforderung</td>
+          <td>specified grace period</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ermächtigte Handlungsbevollmächtigte</td>
+          <td>level of share capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>erheblicher Zweifel</td>
+          <td>instance deposit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ergebender Betrag</td>
+          <td>resulting amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>erfüllte Einlageverpflichtung</td>
+          <td>unfulfilled obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>erforderliche besondere Angabe</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>entstehender Schaden</td>
+          <td>remuneration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>entsprechende Vorschrift</td>
+          <td>machine-readable form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>enthaltene Angabe</td>
+          <td>machine-readable form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>entgegenstehender Beschluss</td>
+          <td>contrary resolution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>entgegenstehende Vereinbarung</td>
+          <td>contrary</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>empfangsberechtigte Person</td>
+          <td>registered address</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>elektronisches Informationsmedium</td>
+          <td>electronic information</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>einzelnes Zwangsgeld</td>
+          <td>individual coercive fine</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>einzelnes Recht</td>
+          <td>sharing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>einzelnes Geschäft</td>
+          <td>specific business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>einzelner Ort</td>
+          <td>specific business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>einstweilige Verfügung</td>
+          <td>interim order</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>einstimmiger Beschluss</td>
+          <td>unanimous vote</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>eingezahlte Geldeinlage</td>
+          <td>total nominal capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>eingetragene Anschrift</td>
+          <td>registered address</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>eingereichter vollständiger Wortlaut</td>
+          <td>last complete text</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>eingegangene Verbindlichkeit</td>
+          <td>fulfilment</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>eingeforderter Nachschuss</td>
+          <td>specified amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>eigene Unkenntnis</td>
+          <td>own ignorance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>eigene Rechnung</td>
+          <td>own account</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>drittes vorgenommenes Rechtsgeschäft</td>
+          <td>effectiveness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>dritte Person</td>
+          <td>restriction</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>dingliches Recht</td>
+          <td>real property</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bisheriges Kapital</td>
+          <td>previous capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bezeichneter Gesellschafter</td>
+          <td>matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bezeichneter Betrag</td>
+          <td>repaying capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bezeichnete Urkunde</td>
+          <td>latter case</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bezeichnete Sorgfalt</td>
+          <td>same obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bezeichnete Befugnis</td>
+          <td>aforementioned period</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bezeichnete Anmeldung</td>
+          <td>due regard</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bestimmter Zweck</td>
+          <td>specific purpose</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bestimmter Nennbetrag</td>
+          <td>specified nominal value</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bestimmter Empfänger</td>
+          <td>specific recipient</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bestimmende Nachfrist</td>
+          <td>specified grace period</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bestellter Notar</td>
+          <td>official</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bestehender Vertrag</td>
+          <td>prejudice</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>bestehende Geschäftsverbindung</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>besondere Mitteilung</td>
+          <td>trading</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>besondere Bestimmung</td>
+          <td>want</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>besondere Angabe</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>berechneter Hundertsatz</td>
+          <td>sharing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>behördliche Anordnung</td>
+          <td>official order</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ausländisches Recht</td>
+          <td>register entry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ausländische juristische Person</td>
+          <td>manager</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ausländische Gesellschaft</td>
+          <td>foreign company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ausgeschriebener Vorname</td>
+          <td>specific recipient</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>aufgestellter Konzernabschluss</td>
+          <td>lb</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>aufgestellter Abschluss</td>
+          <td>international accounting</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>aufgestellte Bilanz</td>
+          <td>course</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>aufgenommene Liste</td>
+          <td>notarial certification</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>aufgelöste Gesellschaft</td>
+          <td>ongoing business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>angenommener Verlust</td>
+          <td>non-occurrence</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>angenommene Höhe</td>
+          <td>difference</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>angehörender Gesellschafter</td>
+          <td>additional share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>angegebene Frist</td>
+          <td>aforementioned period</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>anderes öffentliches Blatt</td>
+          <td>electronic information</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>anderes dingliches Recht</td>
+          <td>real property</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>anderes Verhältnis</td>
+          <td>ratio</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>anderer gesetzlicher Vertreter</td>
+          <td>level of share capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>anderer Posten</td>
+          <td>note</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>anderer Maßstab</td>
+          <td>criterion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>andere gesetzliche Vorschrift</td>
+          <td>comprehensible abbreviation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>andere Weise</td>
+          <td>trading</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>andere Verpflichtung</td>
+          <td>specific term</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>andere Bilanz</td>
+          <td>last resolution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>abweichender Gewinnverteilungsabreden</td>
+          <td>regarding profit distribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>abschließendes Ergebnis</td>
+          <td>conclusive result</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>abschließende Entscheidung</td>
+          <td>subject-matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>[number]er April</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zweigniederlassung einer Gesellschaft</td>
+          <td>register entry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zweifel</td>
+          <td>instance deposit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zweckbestimmung</td>
+          <td>specific purpose</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zweck des Erlasses</td>
+          <td>repaying capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zweck der Zurückzahlung</td>
+          <td>repaying capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zweck der Herabsetzung</td>
+          <td>false assurance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zweck der Errichtung</td>
+          <td>remuneration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zustimmung des Bundesrates</td>
+          <td>bundesrat</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zustimmung des Aufsichtsrats</td>
+          <td>regarding profit distribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zustimmung der Gesellschafter</td>
+          <td>specific business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zusammenlegung</td>
+          <td>thedivision</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zusammenhang</td>
+          <td>economic consideration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zusammenarbeit</td>
+          <td>www.juris.de</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zurückbehaltungsrecht</td>
+          <td>retention</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zuordnung eines Widerspruchs</td>
+          <td>interim order</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zuordnung</td>
+          <td>interim order</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zulässigkeit des Widerrufs</td>
+          <td>permissibility</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zulässigkeit</td>
+          <td>permissibility</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zuführung</td>
+          <td>last resolution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zahlungsaufforderung</td>
+          <td>opposite</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Zahlung der Nachschüsse</td>
+          <td>making reference</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Woche</td>
+          <td>week</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Wirtschaft</td>
+          <td>und</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Wirksamwerden der Umwandlung</td>
+          <td>transformation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Wirksamkeit</td>
+          <td>effectiveness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Werthaltigkeit des Vermögensgegenstandes</td>
+          <td>intrinsic value</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Werthaltigkeit</td>
+          <td>intrinsic value</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Wertaufholunge</td>
+          <td>regarding profit distribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Wertansatz</td>
+          <td>valuation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Wert des Vermögensgegenstandes</td>
+          <td>continuing obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Weg der Klage</td>
+          <td>legal action</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Wechsel der Gesellschafter</td>
+          <td>status following change</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vorsitzende des Aufsichtsrats</td>
+          <td>specific recipient</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vorschrift der Absätze</td>
+          <td>register entry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vornahme eines Rechtsgeschäfts</td>
+          <td>lawsuit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vornahme der Rechtshandlung</td>
+          <td>beginning</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vordruck</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Veräußerung</td>
+          <td>foreseeable period</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Veränderung des Umfangs</td>
+          <td>status following change</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verzicht der Gesellschaft</td>
+          <td>waiver</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verwendungdes Ergebnisses</td>
+          <td>resulting amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verwendungdes</td>
+          <td>resulting amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verwendung des Jahresergebnisses</td>
+          <td>last resolution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verweisung</td>
+          <td>making reference</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verwaltungsgericht</td>
+          <td>administrative court</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verwahrung</td>
+          <td>safe-keeping</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verurteilung</td>
+          <td>conviction</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vertreter eines Vergleichbaren Rechtsberatenden Berufs</td>
+          <td>official</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vertreter der Mitberechtigten</td>
+          <td>joint representative</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verstoß</td>
+          <td>legal obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Versicherungsaufsichtsgesetz</td>
+          <td>supervisory authority</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verschulden</td>
+          <td>fault</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verpflichtung der Geschäftsführer</td>
+          <td>compliance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verpflichtung der Aufgelösten Gesellschaft</td>
+          <td>ongoing business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vermögensminderung</td>
+          <td>knowledge</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vermögenslage der Gesellschaft</td>
+          <td>similar organ</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vermögenslage</td>
+          <td>similar organ</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vermögensgegenstand des Anlagevermögens</td>
+          <td>foreseeable period</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vermögensgegenstand des Anlage</td>
+          <td>regarding profit distribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vermögensangelegenheit</td>
+          <td>reservation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vermerk</td>
+          <td>conclusive result</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verletzung der Geheimhaltungspflicht</td>
+          <td>confidentiality</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verlangen der Aufsichtsbehörde</td>
+          <td>supervisory authority</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verkaufskosten</td>
+          <td>outstanding additional contribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verjährung des Anspruchs</td>
+          <td>statute</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vergütung</td>
+          <td>remuneration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vergleich der Gesellschaft</td>
+          <td>waiver</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Vergleich</td>
+          <td>waiver</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Verbot</td>
+          <td>subject</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unterschiedsbetrag</td>
+          <td>difference</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unternehmensgegenstand</td>
+          <td>subject</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unterlage</td>
+          <td>submission</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unrichtigkeit</td>
+          <td>incorrectness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unkenntnis</td>
+          <td>own ignorance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unfähigkeit</td>
+          <td>serious breach</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unabhängigkeit des Abschlussprüfers</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Unabhängigkeit</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Ug</td>
+          <td>entrepreneurial company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Teilzahlung</td>
+          <td>fruitless expiry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Teilung</td>
+          <td>thedivision</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Teilhabe</td>
+          <td>respect of equal participation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Teil eines Neuen Geschäftsanteils</td>
+          <td>partial right</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Tag des Abschlusses</td>
+          <td>conclusion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Summe der Nennbeträge</td>
+          <td>sum total</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Summe</td>
+          <td>sum total</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Strafverfahren</td>
+          <td>subject-matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Staatsanwaltschaft</td>
+          <td>subject-matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Sperrjahr</td>
+          <td>twelve-month ban</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Sicherheit</td>
+          <td>security</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Selbständigkeit</td>
+          <td>original share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Schutz der Gläubiger</td>
+          <td>public interest</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Schuldner</td>
+          <td>debtor</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Schrift der Gesellschaft</td>
+          <td>safe-keeping</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Schlussrechnung</td>
+          <td>completion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Schadensersatzanspruch</td>
+          <td>violation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Schaden Ersatz</td>
+          <td>remuneration</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Satzungssitz</td>
+          <td>summarising designation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Sachverhältnis</td>
+          <td>matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rückzahlung der Einlage</td>
+          <td>return</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Richtigkeit der Versicherung</td>
+          <td>instance deposit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Richtigkeit</td>
+          <td>instance deposit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Registernummer</td>
+          <td>summarising designation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Registergericht des Sitzes</td>
+          <td>specific recipient</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Registereintrag</td>
+          <td>register entry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Regel</td>
+          <td>note</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtsvorgänger des Ausgeschlossenen</td>
+          <td>unfulfilled obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtsstreit</td>
+          <td>lawsuit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtsstellung</td>
+          <td>status following change</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtskraft des Urteils</td>
+          <td>official order</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtskraft des Beschlusses</td>
+          <td>insufficiency</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtskraft der Gerichtlichen Entscheidung</td>
+          <td>transformation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtsform</td>
+          <td>specific recipient</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechtauf</td>
+          <td>state-supervised covering fund</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Recht der Gesellschaft</td>
+          <td>making reference</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Recht Teileingezahlter Geschäftsanteile</td>
+          <td>sharing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Recht Abweichung</td>
+          <td>register entry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rechnungslegungsstandard</td>
+          <td>international accounting</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rahmen einer Bestehenden Geschäftsverbindung</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Rahmen</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Publizitätsgesetz</td>
+          <td>presentation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Prüfungsauftrag</td>
+          <td>audit assignment</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Prüfung des Jahresabschlusses</td>
+          <td>need</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Prozess</td>
+          <td>assertion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Prozentsatz</td>
+          <td>total interest</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Pflichtverletzung</td>
+          <td>serious breach</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Parlament</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Organ der Gesellschaft</td>
+          <td>specific business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Offenlegung eines Einzelabschlusses</td>
+          <td>international accounting</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nummer des Registereintrags</td>
+          <td>register entry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nichtigkeit des Gesellschaftsvertrages</td>
+          <td>void</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nichteintritt Angenommener Verluste</td>
+          <td>non-occurrence</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nichteintritt</td>
+          <td>non-occurrence</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nichtberechtigte</td>
+          <td>status following change</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nennbetrag eines Geschäftsanteils</td>
+          <td>respective share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nennbetrag des Stammkapitals</td>
+          <td>sharing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nachteil</td>
+          <td>non-company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Nachschuss der Gesellschafter</td>
+          <td>making reference</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Montanmitbestimmungsgesetz</td>
+          <td>coal</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Monat des Geschäftsjahrs</td>
+          <td>small company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Mitteilung des Sachverhältnisses</td>
+          <td>matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Mitbestimmungsgesetz</td>
+          <td>coal</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Mitbestimmungsergänzungsgesetz</td>
+          <td>coal</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Mitbestimmung</td>
+          <td>co-determination</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Mindestbetrag des Stammkapitals</td>
+          <td>minimum amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Mindestbetrag</td>
+          <td>minimum amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Maßstab der Verteilung</td>
+          <td>criterion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Maßstab</td>
+          <td>criterion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Maßregel</td>
+          <td>audits</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Maßgabe des Vorigen Absatzes</td>
+          <td>such notarial form</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Maßgabe des Artikels</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Masse</td>
+          <td>insufficiency</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Mann</td>
+          <td>respect of equal participation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Legitimation der Geschäftsführer</td>
+          <td>legitimation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Legitimation</td>
+          <td>legitimation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Lauf des Geschäftsjahres</td>
+          <td>course</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Last</td>
+          <td>fault</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Landgericht</td>
+          <td>regional court</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Landesjustizverwaltung</td>
+          <td>justice</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Kündigung</td>
+          <td>return</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Konzernlagebericht</td>
+          <td>consolidated management report</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Konsularbeamte</td>
+          <td>official</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Kommission</td>
+          <td>statutory audit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Klage der Abschlussprüferaufsichtsstelle</td>
+          <td>subject-matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Kenntnis</td>
+          <td>knowledge</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Kapitalerhaltung</td>
+          <td>maintenance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Kapitaleinlage</td>
+          <td>specific term</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Kapital der Gesellschaft</td>
+          <td>overall amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Kaduzierung</td>
+          <td>forfeiture</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Juris</td>
+          <td>www.juris.de</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Interesse der Gläubiger</td>
+          <td>need</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Inpfandnahme der Geschäftsanteile</td>
+          <td>legal obligation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Inhalt Vertraglicher Beziehungen</td>
+          <td>previous capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Inhaber des Anteils</td>
+          <td>joint representative</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Informationsmedium</td>
+          <td>electronic information</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Höhe der Geleisteten Einlage</td>
+          <td>sharing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Hälfte des Mindeststammkapitals</td>
+          <td>total nominal capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Hundertsatz der Erhöhung</td>
+          <td>sharing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Hundertsatz</td>
+          <td>sharing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Hinterlegung</td>
+          <td>such authorisation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Heilung</td>
+          <td>remedying</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Haupt</td>
+          <td>register entry</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Handlung der Geschäftsführer</td>
+          <td>public good</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Handelsregister Aufgenommenen Liste</td>
+          <td>notarial certification</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Handelsbuch der Gesellschaft</td>
+          <td>trading</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Handelsbuch</td>
+          <td>trading</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Handelnd</td>
+          <td>acting</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Grundstück</td>
+          <td>real property</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Grund des Beschlusses</td>
+          <td>resulting amount</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gmbh</td>
+          <td>www.juris.de</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gliederung der Jahresbilanz</td>
+          <td>valuation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gliederung</td>
+          <td>valuation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewinnverteilungsabreden</td>
+          <td>regarding profit distribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewinnverhältnisse</td>
+          <td>previous capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewinnbeteiligung der Neuen Geschäftsanteile</td>
+          <td>profit share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewinnbeteiligung</td>
+          <td>profit share</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewinnausschüttung der Gesellschaft</td>
+          <td>previous capital</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewinnabführungsvertrag</td>
+          <td>restitution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewinn des Ganzen Geschäftsjahres</td>
+          <td>entire financial year</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewerbezweig</td>
+          <td>subject</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gewerbe</td>
+          <td>subject</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gesellschaftsverhältnis</td>
+          <td>beginning</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Gesellschafterbeschluss</td>
+          <td>remedying</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Geschäftsverbindung</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Geschäftsleiter einer Ausländischen Juristischen Person</td>
+          <td>manager</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+      </tbody>
+</table></body></html>
